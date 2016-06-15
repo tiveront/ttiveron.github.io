@@ -29,18 +29,13 @@
       <guid>http://tiveron.ca/page/about/</guid>
       <description>
 
-&lt;p&gt;My name is Inigo Montoya. I have the following qualities:&lt;/p&gt;
+&lt;h1 id=&#34;hello-my-name-is-thomas&#34;&gt;Hello, my name is Thomas,&lt;/h1&gt;
 
-&lt;ul&gt;
-&lt;li&gt;I rock a great mustache&lt;/li&gt;
-&lt;li&gt;I&amp;rsquo;m extremely loyal to my family&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;I started this website to track different problems I have been able to solve.
+  These can range from IT problems (networking), to administration (mostly Windows), to almost anything tech related!
+  Most of the solutions I have and will write about are ones that I couldn&amp;rsquo;t find a good solution for with our trusty friend Google.&lt;/p&gt;
 
-&lt;p&gt;What else do you need?&lt;/p&gt;
-
-&lt;h3 id=&#34;my-history&#34;&gt;my history&lt;/h3&gt;
-
-&lt;p&gt;To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch &lt;a href=&#34;http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29&#34;&gt;my movie&lt;/a&gt; and it will answer &lt;strong&gt;all&lt;/strong&gt; your questions.&lt;/p&gt;
+&lt;p&gt;So my hope is that you are here because you too had a problem and one of my solutions has helped you out.&lt;/p&gt;
 </description>
     </item>
     
