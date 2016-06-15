@@ -6,8 +6,8 @@
     <description>Recent content on Thomas Tiveron</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
-    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <managingEditor>thomas@tiveron.ca (Thomas Tiveron)</managingEditor>
+    <webMaster>thomas@tiveron.ca (Thomas Tiveron)</webMaster>
     <lastBuildDate>Fri, 10 Jun 2016 23:46:35 -0400</lastBuildDate>
     <atom:link href="http://tiveron.ca/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
       <title>welcome</title>
       <link>http://tiveron.ca/post/welcome/</link>
       <pubDate>Fri, 10 Jun 2016 23:46:35 -0400</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
+      <author>thomas@tiveron.ca (Thomas Tiveron)</author>
       <guid>http://tiveron.ca/post/welcome/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
@@ -25,7 +25,7 @@
       <title>About me</title>
       <link>http://tiveron.ca/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
+      <author>thomas@tiveron.ca (Thomas Tiveron)</author>
       <guid>http://tiveron.ca/page/about/</guid>
       <description>
 
