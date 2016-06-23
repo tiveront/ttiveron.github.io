@@ -11,20 +11,35 @@
     <atom:link href="http://tiveron.ca/page/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>About me</title>
+      <title>Hi, I&#39;m Thomas</title>
       <link>http://tiveron.ca/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>thomas@tiveron.ca (Thomas Tiveron)</author>
       <guid>http://tiveron.ca/page/about/</guid>
       <description>
 
-&lt;h1 id=&#34;hello-my-name-is-thomas&#34;&gt;Hello, my name is Thomas,&lt;/h1&gt;
+&lt;h2 id=&#34;tl-dr&#34;&gt;TL;DR&lt;/h2&gt;
 
-&lt;p&gt;I started this website to track different problems I have been able to solve.
-  These can range from IT problems (networking), to administration (mostly Windows), to almost anything tech related!
-  Most of the solutions I have and will write about are ones that I couldn&amp;rsquo;t find a good solution for with our trusty friend Google.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m blogging to share my path on learning to be a software developer. Feel free to contact me using any of the links at the bottom.&lt;/p&gt;
 
-&lt;p&gt;So my hope is that you are here because you too had a problem and one of my solutions has helped you out.&lt;/p&gt;
+&lt;h3 id=&#34;longer-version&#34;&gt;Longer version,&lt;/h3&gt;
+
+&lt;p&gt;I like to focus on backend solutions where I can flex my mathematical muscles :p&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m currently working remotely with &lt;a href=&#34;http://www.icarusgv.com/&#34; title=&#34;IcarusGV Homepage&#34;&gt;Icarus Group Ventures&lt;/a&gt; a small FinTech start-up.
+  I was initially solely in the role of manager; planning, scheduling, hiring,
+  but when you work on a small team you get the chance to tackle many different challenges. Over the past two years,
+  I have been able to add value through coding, mostly C#. I also now admin a series of Windows Servers for our cloud-only infrastructure.&lt;/p&gt;
+
+&lt;p&gt;I went to Ryerson University (Toronto, Ontario, Canada) and completed a Bachelor of Civil Engineering, followed by a Masters of Applied Science there too.
+  It was during my master&amp;rsquo;s thesis that I was first introduced to programming, translating some old VB6 code to VB.Net and Silverlight.
+  Since then I have tackled numerous small coding projects. I have done some work in Python (2 &amp;amp; 3), a little more in R, and a little less on the front-end (HTML &amp;amp; CSS).&lt;/p&gt;
+
+&lt;p&gt;Julia is currently my crush, don&amp;rsquo;t tell my wife&amp;hellip; Blogs about JuliaLang to follow.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;ve made it this far, thank you again,&lt;/p&gt;
+
+&lt;p&gt;Thomas&lt;/p&gt;
 </description>
     </item>
     
