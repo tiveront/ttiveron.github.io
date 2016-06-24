@@ -76,7 +76,7 @@ Hugo&amp;rsquo;s themes use Go templating and they have a great primer in their 
 It feels more like I&amp;rsquo;m making simple HTML changes, with the power of Go objects and conditionals.
 Finally, another important aspect to me was that with Hugo you create your content in Markdown files.&lt;/p&gt;
 
-&lt;p&gt;There you have it, a short run down of the meandering trail I took to get here.&lt;/p&gt;
+&lt;p&gt;There you have it, a short run down the meandering trail I took to get here.&lt;/p&gt;
 
 &lt;p&gt;If you have any questions about my choices feel free to reach out to me with any of the links below.&lt;/p&gt;
 
@@ -96,16 +96,28 @@ Finally, another important aspect to me was that with Hugo you create your conte
 
 &lt;h2 id=&#34;tl-dr&#34;&gt;TL;DR&lt;/h2&gt;
 
-&lt;p&gt;I&amp;rsquo;m blogging to share my path on learning to be a software developer. Feel free to contact me using any of the links at the bottom.&lt;/p&gt;
+&lt;p&gt;I like to focus on backend solutions where I can flex my mathematical muscle :p &lt;br&gt;
+  I&amp;rsquo;m blogging to share my journey on learning to become a better software developer.&lt;/p&gt;
 
 &lt;h3 id=&#34;longer-version&#34;&gt;Longer version,&lt;/h3&gt;
-
-&lt;p&gt;I like to focus on backend solutions where I can flex my mathematical muscles :p&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;m currently working remotely with &lt;a href=&#34;http://www.icarusgv.com/&#34; title=&#34;IcarusGV Homepage&#34;&gt;Icarus Group Ventures&lt;/a&gt; a small FinTech start-up.
   I was initially solely in the role of manager; planning, scheduling, hiring,
   but when you work on a small team you get the chance to tackle many different challenges. Over the past two years,
   I have been able to add value through coding, mostly C#. I also now admin a series of Windows Servers for our cloud-only infrastructure.&lt;/p&gt;
+
+&lt;p&gt;Over the past couple years I have worked with either small start-ups, or on small teams contracted by large companies to solve a specific problem.&lt;/p&gt;
+
+&lt;p&gt;In the start-up realm, I&amp;rsquo;ve helped get multiple ideas funded and a couple to market. Helping people get from an idea to a workable plan can be a big challenge,
+  but the results are often rewarding. The start-ups I&amp;rsquo;ve worked with have been under 5 members and are mostly in need of planning and prototyping.
+  A lot of the work at this stage is idea validation, which means figuring out if there is a genuine need, and if it can be profitable (or sustainable).
+  Getting good answers here can solve a lot of heartache and hard work. In fact over half the start-ups I&amp;rsquo;ve helped with their research have decided against
+  pursuing funding, but this is just what you want at an early stage - Fail Fast! Learn the lessons, and move on.&lt;/p&gt;
+
+&lt;p&gt;For my work on contract teams, I&amp;rsquo;m usually solving a company/industry specific problem with a tight schedule and fixed budget. My background in civil engineering
+  usually comes into play here, where I look to bring a digital solution to an analog problem. Sometimes, there are fulltime developers, and I take on a liaison role filtering key
+  engineering concepts into psuedocode or ensuring the logic adequately reflects real world processes. Other times, I&amp;rsquo;m the developer and often in this scenario a key
+  factor is integration. Fitting a new application or process into a companies current work flow and culture can be tricky, early communication is key.&lt;/p&gt;
 
 &lt;p&gt;I went to Ryerson University (Toronto, Ontario, Canada) and completed a Bachelor of Civil Engineering, followed by a Masters of Applied Science there too.
   It was during my master&amp;rsquo;s thesis that I was first introduced to programming, translating some old VB6 code to VB.Net and Silverlight.
@@ -113,7 +125,7 @@ Finally, another important aspect to me was that with Hugo you create your conte
 
 &lt;p&gt;Julia is currently my crush, don&amp;rsquo;t tell my wife&amp;hellip; Blogs about JuliaLang to follow.&lt;/p&gt;
 
-&lt;p&gt;If you&amp;rsquo;ve made it this far, thank you again,&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;ve made it this far thank you,&lt;/p&gt;
 
 &lt;p&gt;Thomas&lt;/p&gt;
 </description>
