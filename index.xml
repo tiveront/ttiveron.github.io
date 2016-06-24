@@ -50,14 +50,14 @@ But at the end of the day, I didn&amp;rsquo;t really want to have to start payin
 
 &lt;h3 id=&#34;github-pages-and-static-site-generators&#34;&gt;Github Pages and Static Site Generators&lt;/h3&gt;
 
-&lt;p&gt;Github Pages will server the content in a Github repository as a website, with the catch that everything in the repository has to be static.
+&lt;p&gt;Github Pages will serve the content in a Github repository as a website, with the catch that everything in the repository has to be static.
 So while you could create the content and HTML of each page, you can use a static site generator to take care of the HTML for you!&lt;/p&gt;
 
 &lt;p&gt;Now here is where the real fun begins, choosing a static site generator.
 &lt;a href=&#34;https://www.staticgen.com/&#34; title=&#34;StaticGen&#34;&gt;StaticGen&lt;/a&gt; tracks the top Open-Source static site generators and their list contains well over 100!&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://hexo.io/&#34; title=&#34;Hexo&#34;&gt;Hexo.io&lt;/a&gt; was my first static generator. I chose Hexo, because it ranked high on the  list of generators and runs a node.js server.
-I do not have much experience with JavaScript, but I felt that if I needed to code something to go along with node.js it would good experience.
+I do not have much experience with JavaScript, but I felt that if I needed to code something to go along with node.js it would be good experience.
 Unfortunately, my love of Hexo was short lived. They have great tutorials, and I was able to get my site up very quickly, but when I wanted to dig into the theme and make some changes things got tricky.
 Hexo themes use either the template language EmbeddedJavaScript (EJS) or Swig, and I&amp;rsquo;m currently not interested in learning either of these.
 Thus, while I was able to get my Hexo site up and running smoothly, I didn&amp;rsquo;t want to tackle their foreign templating language just to make theme changes.&lt;/p&gt;
@@ -76,7 +76,7 @@ Hugo&amp;rsquo;s themes use Go templating and they have a great primer in their 
 It feels more like I&amp;rsquo;m making simple HTML changes, with the power of Go objects and conditionals.
 Finally, another important aspect to me was that with Hugo you create your content in Markdown files.&lt;/p&gt;
 
-&lt;p&gt;There you have it, a short run down the meandering trail I took to get here.&lt;/p&gt;
+&lt;p&gt;There you have it, a short summary of the meandering trail I took to get here.&lt;/p&gt;
 
 &lt;p&gt;If you have any questions about my choices feel free to reach out to me with any of the links below.&lt;/p&gt;
 
@@ -117,7 +117,7 @@ Finally, another important aspect to me was that with Hugo you create your conte
 &lt;p&gt;For my work on contract teams, I&amp;rsquo;m usually solving a company/industry specific problem with a tight schedule and fixed budget. My background in civil engineering
   usually comes into play here, where I look to bring a digital solution to an analog problem. Sometimes, there are fulltime developers, and I take on a liaison role filtering key
   engineering concepts into psuedocode or ensuring the logic adequately reflects real world processes. Other times, I&amp;rsquo;m the developer and often in this scenario a key
-  factor is integration. Fitting a new application or process into a companies current work flow and culture can be tricky, early communication is key.&lt;/p&gt;
+  factor is integration. Fitting a new application or process into a company&amp;rsquo;s current work flow and culture can be tricky. Early communication between stakeholders &lt;strong&gt;and&lt;/strong&gt; end-users is key.&lt;/p&gt;
 
 &lt;p&gt;I went to Ryerson University (Toronto, Ontario, Canada) and completed a Bachelor of Civil Engineering, followed by a Masters of Applied Science there too.
   It was during my master&amp;rsquo;s thesis that I was first introduced to programming, translating some old VB6 code to VB.Net and Silverlight.
