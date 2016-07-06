@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Learning on Thomas Tiveron</title>
-    <link>http://tiveron.ca/categories/learning/</link>
-    <description>Recent content in Learning on Thomas Tiveron</description>
+    <title>Data Science on Thomas Tiveron</title>
+    <link>http://tiveron.ca/categories/data-science/</link>
+    <description>Recent content in Data Science on Thomas Tiveron</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>thomas@tiveron.ca (Thomas Tiveron)</managingEditor>
     <webMaster>thomas@tiveron.ca (Thomas Tiveron)</webMaster>
     <lastBuildDate>Tue, 05 Jul 2016 21:16:38 -0400</lastBuildDate>
-    <atom:link href="http://tiveron.ca/categories/learning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://tiveron.ca/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Should I Learn R or Python?</title>
@@ -66,58 +66,6 @@ With these two needs in mind, I think the academic approaching a problem with a 
 &lt;p&gt;Thanks for reading,&lt;/p&gt;
 
 &lt;p&gt;Thomas&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Learning CSharp</title>
-      <link>http://tiveron.ca/blog/learning-csharp/</link>
-      <pubDate>Wed, 29 Jun 2016 00:06:35 -0400</pubDate>
-      <author>thomas@tiveron.ca (Thomas Tiveron)</author>
-      <guid>http://tiveron.ca/blog/learning-csharp/</guid>
-      <description>&lt;h2&gt; Should I Learn C#? &lt;/h2&gt;
-
-&lt;p&gt;Why should you choose to learn C# out of all the other languages? Perhaps you are trying to decided between it and Java, or Python, or C, or JavaScript, or [insert other great language choice].
-Well quite simply you should choose C# to learn now, because C# is the best! &amp;hellip; Is what I wish I could say, but truly there are many different programming languages and most have varying pros and cons for many applications. With the disclaimer that there is certainly no &amp;ldquo;best&amp;rdquo;, C# has many great features and is a good beginner language. People smarter than I have written great and thorough articles on why to choose C#, linked below is just a small sampling. I didn&amp;rsquo;t want to repeat them here, but have summarized what I think are some great points below. Additionally, I have included some content to get you on your way learning C#.&lt;/p&gt;
-
-&lt;p&gt;&lt;h4&gt;Sampling of why you should learn C# references:&lt;/h4&gt;
- - &lt;a href=&#34;http://www.bestprogramminglanguagefor.me/why-learn-c-sharp&#34; title=&#34;Best Programming Language For Me - C#&#34;&gt;Why Learn C#&lt;/a&gt;
- &lt;br&gt;
- - &lt;a href=&#34;https://www.opensesame.com/blog/six-reasons-why-you-should-learn-c&#34; title=&#34;OpenSesame - 6 Reason to Learn C#&#34;&gt;6 Reasons To Learn C#&lt;/a&gt;
- &lt;br&gt;
- - &lt;a href=&#34;http://www.hanselman.com/blog/IfYouHadToStartOverWhatTechnologiesWouldYouLearnIn2014.aspx&#34; title=&#34;Scott Hanselman - If you had to start over learning...&#34;&gt;If You Had To Start Over Learning&amp;hellip; &lt;/a&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h4&gt;TL;DR&lt;/h4&gt;
-&lt;strong&gt;Common syntax&lt;/strong&gt; - you&amp;rsquo;ll get used to {curly braces}. This should help make it easier for you to read other curly brace languages, at least enough to get the gist of what the code is doing. This is very helpful, as sometimes you will only be able to find code examples in other languages, so being able to quickly interpret other code and get your C# code underway is a big bonus.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;High level language&lt;/strong&gt; - takes care of a lot of the little details and lets you get going. Now this isn&amp;rsquo;t to say it handles everything for you, but you will get good mileage.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Huge community&lt;/strong&gt; - If you are unfamiliar with &lt;a href=&#34;https://stackoverflow.com/&#34; title=&#34;Stack Overflow&#34;&gt;Stack Overflow&lt;/a&gt;, you soon won&amp;rsquo;t be! C# has the 4th largest community on Stack Overflow. This means if you have a problem, someone else probably has had it too, and you can find a solution here quickly.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;You can write pretty much anything, anywhere&lt;/strong&gt; - Microsoft loves open source if you hadn&amp;rsquo;t heard! With the release of &lt;a href=&#34;https://dotnet.github.io/&#34; title=&#34;.Net Core&#34;&gt;.Net Core&lt;/a&gt;, and &lt;a href=&#34;https://code.visualstudio.com/&#34; title=&#34;Visual Studio Code&#34;&gt;Visual Studio - Code&lt;/a&gt; you can now program C# on any platform in Microsoft&amp;rsquo;s &amp;ldquo;best&amp;rdquo; C# IDE Visual Studio. This means yes to Windows, Mac OS X, and Linux; and this means yes to desktop, web, and mobile applications.&lt;/p&gt;
-
-&lt;h2&gt; Getting Started Learning C# &lt;/h2&gt;
-
-&lt;p&gt;Everyone learns differently so I&amp;rsquo;m going to include a couple different methods for learning C# which hopefully you will find useful.&lt;/p&gt;
-
-&lt;p&gt;I got started learning C# with the course &lt;a href=&#34;https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949&#34; title=&#34;C# on MVA&#34;&gt;C# For Beginners on Microsoft Virtual Academy&lt;/a&gt;. Microsoft Virtual Academy has a plethora of free content to help anyone at any level get underway with many Microsoft technologies, and the best part is it is all free! This is probably the best way to get your feet wet with C#, it has around 8 hours of video tutorials, split into 24 modules, with 21 assessments. The 24 modules are great for when you are busy and can&amp;rsquo;t allocate a big chunk of time to learning all at once. Just complete a module or two when you can.&lt;/p&gt;
-
-&lt;p&gt;Now I haven&amp;rsquo;t tried this one myself, but if you tend to learn more through reading another free learning service by Microsoft is &lt;a href=&#34;https://www.microsoft.com/net/tutorials/csharp/getting-started&#34; title=&#34;Getting Started with C#&#34;&gt;Getting Started with C#&lt;/a&gt;. This text based tutorial appears to cover many of the same topics as the Microsoft Virtual Academy course. This could also be a great option for learning on the go on your mobile or if you live in a region with slow or intermittent internet access. These tutorials will even get you coding C# right in the browser, no need to download anything!&lt;/p&gt;
-
-&lt;p&gt;Well there you have it, you should consider learning C# as it has a bright future and seems like it should be an in demand language for years to come. Microsoft&amp;rsquo;s recent moves to open source the .Net Framework and huge cross platform support will only increase C#&amp;rsquo;s popularity.&lt;/p&gt;
-
-&lt;p&gt;I hope that the links above help you get started on C# and stay tuned for how to take your C# skills to the next level!&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading,&lt;/p&gt;
-
-&lt;p&gt;Thomas&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;br&gt;
-Pssssst!
-&lt;br&gt; If you want a &amp;lsquo;#&amp;rsquo; in a markdown headings you use HTML tags:
-&lt;br&gt; &amp;ldquo;&amp;lt;h2&amp;gt; Should I Learn C#? &amp;lt;/h2&amp;gt;&amp;rdquo;&lt;/p&gt;
 </description>
     </item>
     
