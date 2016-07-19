@@ -8,8 +8,71 @@
     <language>en-us</language>
     <managingEditor>thomas@tiveron.ca (Thomas Tiveron)</managingEditor>
     <webMaster>thomas@tiveron.ca (Thomas Tiveron)</webMaster>
-    <lastBuildDate>Tue, 05 Jul 2016 21:16:38 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 18 Jul 2016 19:46:35 -0400</lastBuildDate>
     <atom:link href="http://tiveron.ca/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>C# - Advanced Foundations</title>
+      <link>http://tiveron.ca/blog/csharp-advanced-foundations/</link>
+      <pubDate>Mon, 18 Jul 2016 19:46:35 -0400</pubDate>
+      <author>thomas@tiveron.ca (Thomas Tiveron)</author>
+      <guid>http://tiveron.ca/blog/csharp-advanced-foundations/</guid>
+      <description>
+
+&lt;h2&gt; Ready to take you C# skills to the next level??&lt;/h2&gt;
+
+&lt;p&gt;When I got started learning C# I looked to &lt;a href=&#34;https://www.pluralsight.com&#34; title=&#34;PluralSight&#34;&gt;PluralSight&lt;/a&gt;. This has proven to be a great choice! There is literally weeks worth of great C# and .Net content. While I did not get started advancing my C# knowledge THAT long ago, it was before PluralSight was offering &amp;ldquo;Paths&amp;rdquo;. At that time, way back when, they had just a few old blog posts to guide me on where to get started, and which order to watch some videos in. With the release of &lt;a href=&#34;https://app.pluralsight.com/paths/skill/csharp&#34; title=&#34;PluralSight C# Path&#34;&gt;PluralSight&amp;rsquo;s C# Path&lt;/a&gt; I started comparing my learning track with theirs and I may be bias - but I think mine&amp;rsquo;s better! So I&amp;rsquo;m going to share it with you.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note: If you are entirely new to C# check out my blog post for you here : &lt;a href=&#34;http://tiveron.ca/blog/learning-csharp/&#34; title=&#34;Thomas Tiveron&#39;s Learning C#&#34;&gt;Learning C#&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt; Advanced Foundations Level &lt;/h2&gt;
+&lt;h3&gt; Duration : 20 hours 13 minutes &lt;/h3&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;c-fundamentals-with-visual-studio-2015-https-app-pluralsight-com-library-courses-c-sharp-fundamentals-with-visual-studio-2015-pluralsight-c-fundamentals-with-visual-studios-2015&#34;&gt;&lt;a href=&#34;https://app.pluralsight.com/library/courses/c-sharp-fundamentals-with-visual-studio-2015/&#34; title=&#34;PluralSight C# Fundamentals with Visual Studios 2015&#34;&gt;C# Fundamentals With Visual Studio 2015&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Even after the free tutorials I linked in my &lt;a href=&#34;http://tiveron.ca/blog/learning-csharp/&#34; title=&#34;Thomas Tiveron&#39;s Learning C#&#34;&gt;Learning C#&lt;/a&gt; post, I would still suggest doing this course. Practice makes perfect, and the instructor Scott Allen (on Twitter &lt;a href=&#34;https://twitter.com/OdeToCode/&#34; title=&#34;Scott Allen&#39;s Twitter&#34;&gt;@OdeToCode&lt;/a&gt;) is great at explaining things. It may be your second or even third time through some of the C# basics, but it won&amp;rsquo;t hurt you and you&amp;rsquo;ll get a chance to explore some related concepts like the Common Language Runtime (CLR), and Object Oriented Programming.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pro Tip :&lt;/strong&gt; If there is a new version of Visual Studios, check for a new version of this course.&lt;/p&gt;
+
+&lt;h4 id=&#34;c-programming-paradigms-https-app-pluralsight-com-library-courses-csharp-fundamentals-2-pluralsight-c-programming-paradigms&#34;&gt;&lt;a href=&#34;https://app.pluralsight.com/library/courses/csharp-fundamentals-2/&#34; title=&#34;PluralSight C# Programming Paradigms&#34;&gt;C# Programming Paradigms&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;This course is again by Scott Allen (his blog &lt;a href=&#34;http://odetocode.com/blogs/scott/&#34; title=&#34;Scott Allen&#39;s Blog&#34;&gt;OdeToCode&lt;/a&gt;) and introduces you to some really powerful C# features. Language Integrated Queries, or LINQ, will become a regular part of your programming once you learn them. The Dynamic Language Runtime, and Functional Programming will give you glimpse at some new ways to think about your programming. Finally, the course wraps up with Scott&amp;rsquo;s 10 rules for writing better C#.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pro Tip :&lt;/strong&gt; Even if you know the rest, watch the 10 rules! Scott has been a Microsoft MVP for over 11 years now, talk about advice from a pro!&lt;/p&gt;
+
+&lt;h4 id=&#34;what-s-new-in-c-6-https-app-pluralsight-com-library-courses-csharp-6-whats-new-pluralsight-c-6-what-s-new&#34;&gt;&lt;a href=&#34;https://app.pluralsight.com/library/courses/csharp-6-whats-new/&#34; title=&#34;PluralSight C# 6 What&#39;s New&#34;&gt;What&amp;rsquo;s New in C# 6&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Great chance to get a look at the internals of C#. Hear about how the language is changing and the roadmap it is on. While the last two series will get you started writing great C#, this one will try to save you time by showing you some of the new syntax changes. Also, get ready for you introduction to &lt;a href=&#34;https://twitter.com/roslyn&#34; title=&#34;Roslyn&#39;s Twitter&#34;&gt;Roslyn&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pro Tip :&lt;/strong&gt; If there is a new C# (7 isn&amp;rsquo;t too far away as I write this post), check out that one too.&lt;/p&gt;
+
+&lt;h4 id=&#34;clr-fundamentals-https-app-pluralsight-com-library-courses-clr-fundamentals-pluralsight-clr-fundamentals&#34;&gt;&lt;a href=&#34;https://app.pluralsight.com/library/courses/clr-fundamentals/&#34; title=&#34;PluralSight CLR Fundamentals&#34;&gt;CLR Fundamentals&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;This course slows things down with Mike Woodring (another Microsoft MVP) and will explain how all the acronyms you&amp;rsquo;re always hearing work together. From what really is the .Net Framework, to understanding Just-In-Time (JIT) Compilation, the Global Assembly Cache (GAC), and even concepts like CLR Interop! If all that sounds like gibberish to you, you know what to do, watch these videos!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pro Tip :&lt;/strong&gt; Don&amp;rsquo;t skip this one, this low level stuff could save you a lot of time debugging in the future.&lt;/p&gt;
+
+&lt;h4 id=&#34;clr-threading-https-app-pluralsight-com-library-courses-clr-threading-pluralsight-clr-threading&#34;&gt;&lt;a href=&#34;https://app.pluralsight.com/library/courses/clr-threading/&#34; title=&#34;PluralSight CLR Threading&#34;&gt;CLR Threading&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;How many cores does your processor have? I bet it&amp;rsquo;s more than one. I bet it&amp;rsquo;s more than two. You&amp;rsquo;re going to want to use them, so you&amp;rsquo;re going to want to watch this one. It is authored again by Mike Woodring (on Twitter &lt;a href=&#34;https://twitter.com/mcwoodring&#34; title=&#34;Mike Woodring&#39;s Twitter&#34;&gt;@mcwoodring&lt;/a&gt;), and he is going to help you get through understanding the main parallel programming concepts, and concerns.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pro Tip :&lt;/strong&gt; I didn&amp;rsquo;t use these ideas right away, but when I needed them I was happy to know them.&lt;/p&gt;
+
+&lt;h4 id=&#34;net-regular-expressions-https-app-pluralsight-com-library-courses-net-regular-expressions-pluralsight-net-regular-expressions&#34;&gt;&lt;a href=&#34;https://app.pluralsight.com/library/courses/net-regular-expressions/&#34; title=&#34;PluralSight .Net Regular Expressions&#34;&gt;.Net Regular Expressions&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;I almost didn&amp;rsquo;t watch this course, but by the end I was happy I did. Regular expressions are used for pattern matching with text. How will you know if a user input string is an email address? Or a phone number? Regular expressions can! Yes, the syntax gets a little (a lot) crazy, but should you ever need to do a lot of text processing you will be happy to know about the power of regular expressions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pro Tip :&lt;/strong&gt; Turn up the video speed a bit. Get the concepts, you can look up the specifics when you need them.&lt;/p&gt;
+
+&lt;p&gt;I never said it was going to be quick! There is a lot to learn with C#, but thankfully these core skills can be transferred to all types of projects, desktop (WPF, Windows Form, Linux and Mac with .Net Core), mobile (iOS, Android, and Windows with Xamarin), and web-apps (ASP.NET).&lt;/p&gt;
+
+&lt;p&gt;Stay tuned for more my next building block of courses next week. If you make it through all the above before then, just message me and I&amp;rsquo;ll send you more material you coding beast!&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading,&lt;/p&gt;
+
+&lt;p&gt;Thomas&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Should I Learn R or Python?</title>
@@ -70,7 +133,7 @@ With these two needs in mind, I think the academic approaching a problem with a 
     </item>
     
     <item>
-      <title>Learning CSharp</title>
+      <title>Learning C#</title>
       <link>http://tiveron.ca/blog/learning-csharp/</link>
       <pubDate>Wed, 29 Jun 2016 00:06:35 -0400</pubDate>
       <author>thomas@tiveron.ca (Thomas Tiveron)</author>
@@ -108,6 +171,8 @@ Well quite simply you should choose C# to learn now, because C# is the best! &am
 &lt;p&gt;Well there you have it, you should consider learning C# as it has a bright future and seems like it should be an in demand language for years to come. Microsoft&amp;rsquo;s recent moves to open source the .Net Framework and huge cross platform support will only increase C#&amp;rsquo;s popularity.&lt;/p&gt;
 
 &lt;p&gt;I hope that the links above help you get started on C# and stay tuned for how to take your C# skills to the next level!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note: When you are ready to take your C# to the next level check out my next blog post for you here : &lt;a href=&#34;http://tiveron.ca/blog/csharp-advanced-foundations/&#34; title=&#34;Thomas Tiveron&#39;s C# - Advanced Foundations&#34;&gt;C# - Advanced Foundations&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Thanks for reading,&lt;/p&gt;
 
