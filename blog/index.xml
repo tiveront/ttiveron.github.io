@@ -8,8 +8,94 @@
     <language>en-us</language>
     <managingEditor>thomas@tiveron.ca (Thomas Tiveron)</managingEditor>
     <webMaster>thomas@tiveron.ca (Thomas Tiveron)</webMaster>
-    <lastBuildDate>Mon, 18 Jul 2016 19:46:35 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 13 Aug 2016 18:46:35 -0400</lastBuildDate>
     <atom:link href="http://tiveron.ca/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>C# - Intermediate</title>
+      <link>http://tiveron.ca/blog/csharp-intermediate/</link>
+      <pubDate>Sat, 13 Aug 2016 18:46:35 -0400</pubDate>
+      <author>thomas@tiveron.ca (Thomas Tiveron)</author>
+      <guid>http://tiveron.ca/blog/csharp-intermediate/</guid>
+      <description>
+
+&lt;h4 id=&#34;awkwardly-wondering-what-to-do-after-you-get-through-your-first-c-tutorials&#34;&gt;Awkwardly wondering what to do after you get through your first C# tutorials?&lt;/h4&gt;
+
+&lt;h4 id=&#34;learned-the-c-syntax-but-now-what&#34;&gt;Learned the C# syntax, but now what?&lt;/h4&gt;
+
+&lt;h2&gt; Intermediate C# Developer &lt;/h2&gt;
+
+&lt;p&gt;This post builds off my last to help direct you on your path to becoming a professional C# developer. This material will be right for you if you have been working with C# for about 3-6 months. There is some wiggle room in those numbers, as there always is, but if you are entirely unfamiliar with C#, please go here : &lt;a href=&#34;http://tiveron.ca/blog/learning-csharp/&#34; title=&#34;Thomas Tiveron&#39;s Learning C#&#34;&gt;Learning C#&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Being an intermediate developer can be tough. You know how to get a project started and you can Google search your way through Stack Overflow well enough to do most things, but when can you consider yourself a &amp;ldquo;professional&amp;rdquo;? Yes, that elusive term that even many with it don&amp;rsquo;t even feel that they deserve. Even great developers like Scott Hanselman say &lt;a href=&#34;http://www.hanselman.com/blog/ImAPhonyAreYou.aspx&#34; target=&#34;\_blank&#34;&gt; &amp;ldquo;I&amp;rsquo;m a phony!&amp;rdquo;&lt;/a&gt;. So when can you feel confident in your skills??&lt;/p&gt;
+
+&lt;p&gt;If you are here, I would say you should feel some confidence! You are doing the most important thing, you are working to be better. Now you won&amp;rsquo;t likely be Senior Software Engineer material after finishing just these videos, but you will definitely have a deeper understanding of how C# works.&lt;/p&gt;
+
+&lt;p&gt;Again, this post will be made up of a series of &lt;a href=&#34;https://www.pluralsight.com&#34; target=&#34;\_blank&#34;&gt; PluralSight &lt;/a&gt; courses. You should know that I don&amp;rsquo;t get any credit for directing you there, I just seriously believe it is one of the best places for C# learning! The only thing they lack is a little guidance, so hopefully my series of posts will guide you on your journey of learning C#.&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt; Intermediate Level C# &lt;/h2&gt;
+&lt;h3&gt; Being A Better Coder &lt;/h3&gt;
+&lt;h3&gt; Duration : 8 hours 25 minutes &lt;/h3&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;a-href-https-app-pluralsight-com-library-courses-csharp-best-practices-improving-basics-target-blank-alt-pluralsight-c-best-practices-improving-on-the-basics-c-best-practices-improving-on-the-basics-a&#34;&gt;&lt;a href=&#34;https://app.pluralsight.com/library/courses/csharp-best-practices-improving-basics/&#34; target=&#34;\_blank&#34; alt=&#34;PluralSight C# Best Practices : Improving on the Basics&#34;&gt; C# Best Practices : Improving on the Basics &lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4 id=&#34;a-href-https-app-pluralsight-com-library-courses-csharp-best-practices-collections-generics-target-blank-alt-pluralsight-c-best-practices-2-collections-and-generics-c-best-practices-2-collections-and-generics-a&#34;&gt;&lt;a href=&#34;https://app.pluralsight.com/library/courses/csharp-best-practices-collections-generics/&#34; target=&#34;\_blank&#34; alt=&#34;PluralSight C# Best Practices 2 : Collections and Generics&#34;&gt; C# Best Practices 2 : Collections and Generics &lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;These two courses are by Deborah Kurata, and are an excellent place for the aspiring C# developer to continue their learning. Early tutorials and courses tend to focus on syntax and just the basics of how things can be laid out, and how they work together. What those courses are lacking is the important aspect of what makes good code. These two courses cover everything from what makes a good class, to how to create good methods, and introductions to collections, generics, and LINQ.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pro Tip :&lt;/strong&gt; If you are planning on doing the following deep dive videos, you could skip the second course here, as these topics will be covered in-depth in the following series.&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt; Intermediate Level C# &lt;/h2&gt;
+&lt;h3&gt; Language Deep Dive &lt;/h3&gt;
+&lt;h3&gt; Duration : 27 hours 51 minutes &lt;/h3&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;a-href-https-app-pluralsight-com-library-courses-csharp-interfaces-target-blank-alt-pluralsight-c-interfaces-c-interfaces-a&#34;&gt;&lt;a href=&#34;https://app.pluralsight.com/library/courses/csharp-interfaces/&#34; target=&#34;\_blank&#34; alt=&#34;PluralSight C# Interfaces&#34;&gt; C# Interfaces &lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;I debated including this course in my previous post on &lt;a href=&#34;http://tiveron.ca/blog/csharp-advanced-foundations/&#34; target=&#34;\_blank&#34; alt=&#34;Tiveron -C#  Advanced Foundations&#34;&gt; C# Advanced Foundations&lt;/a&gt;. This course covers the differences between interfaces, abstract classes, and concrete classes; and when to use them. Interfaces are taught not just from a C# perspective, but through the important Object-Oriented Programming concept of inheritance.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pro Tip :&lt;/strong&gt; Understanding interfaces will help you with all of the following series!&lt;/p&gt;
+
+&lt;h4 id=&#34;a-href-https-app-pluralsight-com-library-courses-csharp-collections-target-blank-alt-pluralsight-c-collections-fundamentals-c-collections-fundamentals-a&#34;&gt;&lt;a href=&#34;https://app.pluralsight.com/library/courses/csharp-collections/&#34; target=&#34;\_blank&#34; alt=&#34;PluralSight C# Collections Fundamentals&#34;&gt; C# Collections Fundamentals &lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;This course spends about 20 minutes on each of the main types of C# collections. It explains the pros and cons of each and in which situations you would want to use them.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-href-https-app-pluralsight-com-library-courses-csharp-equality-comparisons-target-blank-alt-pluralsight-c-equality-and-comparisons-c-equality-and-comparisons-a&#34;&gt;&lt;a href=&#34;https://app.pluralsight.com/library/courses/csharp-equality-comparisons/&#34; target=&#34;\_blank&#34; alt=&#34;PluralSight C# Equality and Comparisons&#34;&gt; C# Equality and Comparisons &lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Eventually you are going to want to compare objects that are more complicated than the standard C# value types. How will your code know if your cat object &amp;gt; dog object? The answer is false, but that&amp;rsquo;s another story&amp;hellip; You need to be able to define how objects are compared, there are a couple of interfaces which will help you with this, and they are all explained in this series.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pro Tip :&lt;/strong&gt; These above three courses will expand your knowledge of how to structure your code, what existing C# structures you can start using now, and finally how to make the most of your custom classes.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-href-https-app-pluralsight-com-library-courses-csharp-events-delegates-target-blank-alt-pluralsight-c-events-delegates-and-lambdas-c-events-delegates-and-lambdas-a&#34;&gt;&lt;a href=&#34;https://app.pluralsight.com/library/courses/csharp-events-delegates/&#34; target=&#34;\_blank&#34; alt=&#34;PluralSight C# Events, Delegates and Lambdas&#34;&gt; C# Events, Delegates and Lambdas &lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Events are a very powerful feature of C#. You will often want to write code that only executes when something happens. This course will teach you how, and how to keep your code clean when you only need to use a function once, with anonymous functions.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-href-https-app-pluralsight-com-library-courses-csharp-generics-target-blank-alt-pluralsight-c-generics-c-generics-a&#34;&gt;&lt;a href=&#34;https://app.pluralsight.com/library/courses/csharp-generics/&#34; target=&#34;\_blank&#34; alt=&#34;PluralSight C# Generics&#34;&gt; C# Generics &lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;You&amp;rsquo;ve been probably using generics since the collections course without fully realizing it. Upon completion of this series you will be able to use generics with your custom collections, classes, APIs, and more.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pro Tip :&lt;/strong&gt; The above two courses really fit together. Generics are a critical part of higher level anonymous functions (Action&lt;T&gt; and Func&lt;T,TResult&gt;), but are used in many other places, particularly collections.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-href-https-app-pluralsight-com-library-courses-csharp-equality-comparisons-target-blank-alt-pluralsight-c-practical-linq-c-practical-linq-a&#34;&gt;&lt;a href=&#34;https://app.pluralsight.com/library/courses/csharp-equality-comparisons/&#34; target=&#34;\_blank&#34; alt=&#34;PluralSight C# Practical LINQ&#34;&gt; C# Practical LINQ &lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Another course by Deborah Kurata, and this one will get you up to speed on the great power of LINQ. You will learn the two methods for using LINQ, declarative and implicit, and when to use each one.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-href-https-app-pluralsight-com-library-courses-csharp-extension-methods-target-blank-alt-pluralsight-c-extension-methods-c-extension-methods-a&#34;&gt;&lt;a href=&#34;https://app.pluralsight.com/library/courses/csharp-extension-methods/&#34; target=&#34;\_blank&#34; alt=&#34;PluralSight C# Extension Methods&#34;&gt; C# Extension Methods &lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;After the LINQ course you will know that they are built using extension methods. This course will further your ability to not just use LINQ methods, but to write your own. You will also learn how to work around many restrictions, such as restrictive access modifiers through various compiler tricks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pro Tip :&lt;/strong&gt; These final two courses on LINQ and Extension Methods will allow you expand (no pun intended) on the libraries you may use, and to interact with your programs data with ease!&lt;/p&gt;
+
+&lt;p&gt;Think you can handle the deep dive?&lt;/p&gt;
+
+&lt;p&gt;I do! Getting through the deep dive will give you a really solid knowledge of a large chunk of C#. Not only that, but you will have a great understanding of when to use what. Knowing the strengths and weaknesses of different collection types and the use of lambda functions, especially when used with LINQ or your own extension methods will make you a much better programmer. You will not only be able to tackle harder problems, but will be able to do so much more efficiently.&lt;/p&gt;
+
+&lt;p&gt;I hope my outlines are helping you navigate the great PluralSight courses! I have one more coming up shortly.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading,&lt;/p&gt;
+
+&lt;p&gt;Thomas&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>C# - Advanced Foundations</title>
