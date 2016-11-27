@@ -410,7 +410,7 @@ Finally, another important aspect to me was that with Hugo you create your conte
 
 &lt;h3 id=&#34;longer-version&#34;&gt;Longer version,&lt;/h3&gt;
 
-&lt;p&gt;I&amp;rsquo;m currently working remotely with &lt;a href=&#34;http://www.icarusgv.com/&#34; title=&#34;IcarusGV Homepage&#34;&gt;Icarus Group Ventures&lt;/a&gt; a small FinTech start-up.
+&lt;p&gt;I&amp;rsquo;m currently working remotely with &lt;a href=&#34;http://www.icarusgv.com/&#34; target=&#34;\_blank&#34;&gt; Icarus Group Ventures, &lt;/a&gt; a small FinTech start-up.
   I was initially solely in the role of manager; planning, scheduling, hiring,
   but when you work on a small team you get the chance to tackle many different challenges. Over the past two years,
   I have been able to add value through coding, mostly C#. I also now admin a series of Windows Servers for our cloud-only infrastructure.&lt;/p&gt;
@@ -425,7 +425,7 @@ Finally, another important aspect to me was that with Hugo you create your conte
 
 &lt;p&gt;For my work on contract teams, I&amp;rsquo;m usually solving a company/industry specific problem with a tight schedule and fixed budget. My background in civil engineering
   usually comes into play here, where I look to bring a digital solution to an analog problem. Sometimes, there are fulltime developers, and I take on a liaison role filtering key
-  engineering concepts into psuedocode or ensuring the logic adequately reflects real world processes. Other times, I&amp;rsquo;m the developer and often in this scenario a key
+  engineering concepts into pseudocode or ensuring the logic adequately reflects real world processes. Other times, I&amp;rsquo;m the developer and often in this scenario a key
   factor is integration. Fitting a new application or process into a company&amp;rsquo;s current work flow and culture can be tricky. Early communication between stakeholders &lt;strong&gt;and&lt;/strong&gt; end-users is key.&lt;/p&gt;
 
 &lt;p&gt;I went to Ryerson University (Toronto, Ontario, Canada) and completed a Bachelor of Civil Engineering, followed by a Masters of Applied Science there too.
@@ -437,6 +437,38 @@ Finally, another important aspect to me was that with Hugo you create your conte
 &lt;p&gt;If you&amp;rsquo;ve made it this far thank you,&lt;/p&gt;
 
 &lt;p&gt;Thomas&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Online CS</title>
+      <link>http://tiveron.ca/section/learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>thomas@tiveron.ca (Thomas Tiveron)</author>
+      <guid>http://tiveron.ca/section/learning/</guid>
+      <description>
+
+&lt;h1 id=&#34;under-construction&#34;&gt;Under Construction&lt;/h1&gt;
+
+&lt;p&gt;Come back soon for my online CS learning plan.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thomas Tiveron</title>
+      <link>http://tiveron.ca/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>thomas@tiveron.ca (Thomas Tiveron)</author>
+      <guid>http://tiveron.ca/home/</guid>
+      <description>
+
+&lt;h3 id=&#34;your-learning-just-got-easier&#34;&gt;Your learning, just got easier!&lt;/h3&gt;
+
+&lt;p&gt;Come along on my journey from civil engineer to software entrepreneur.&lt;/p&gt;
+
+&lt;p&gt;You can follow along my learning progress, and join in too! Don&amp;rsquo;t hesitate to contact me if you need help or believe that I have the skills you need. Below are some recent posts of mine on a range of topics, from business to course reviews to website building.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading&lt;/p&gt;
 </description>
     </item>
     
