@@ -11,16 +11,18 @@
     <atom:link href="http://tiveron.ca/section/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>My Online CS</title>
-      <link>http://tiveron.ca/section/learning/</link>
+      <title>Projects</title>
+      <link>http://tiveron.ca/section/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>thomas@tiveron.ca (Thomas Tiveron)</author>
-      <guid>http://tiveron.ca/section/learning/</guid>
+      <guid>http://tiveron.ca/section/projects/</guid>
       <description>
 
 &lt;h1 id=&#34;under-construction&#34;&gt;Under Construction&lt;/h1&gt;
 
-&lt;p&gt;Come back soon for my online CS learning plan.&lt;/p&gt;
+&lt;p&gt;Check out my Github in the mean time!&lt;/p&gt;
+
+&lt;h4 id=&#34;a-href-https-github-com-ttiveron-target-blank-alt-thomas-tiveron-s-github-my-growing-and-rad-github-a&#34;&gt;&lt;a href=&#34;https://github.com/ttiveron&#34; target=&#34;\_blank&#34; alt=&#34;Thomas Tiveron&#39;s Github&#34;&gt; My growing and rad Github &lt;/a&gt;&lt;/h4&gt;
 </description>
     </item>
     
