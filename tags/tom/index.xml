@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tom on Thomas Tiveron</title>
+    <link>http://tiveron.ca/tags/tom/</link>
+    <description>Recent content in Tom on Thomas Tiveron</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>thomas@tiveron.ca (Thomas Tiveron)</managingEditor>
+    <webMaster>thomas@tiveron.ca (Thomas Tiveron)</webMaster>
+    <lastBuildDate>Thu, 20 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://tiveron.ca/tags/tom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Spring Update</title>
+      <link>http://tiveron.ca/blog/spring-2017/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      <author>thomas@tiveron.ca (Thomas Tiveron)</author>
+      <guid>http://tiveron.ca/blog/spring-2017/</guid>
+      <description>
+
+&lt;h2 id=&#34;where-s-my-time-going&#34;&gt;Where&amp;rsquo;s my time going?&lt;/h2&gt;
+
+&lt;p&gt;Hello readers (mom),
+I apologize for my loooong delay between post. I can hardly believe it is already spring time. Whew, time is traveling faster now. What have you been up to so far this year? I hope something awesome!&lt;/p&gt;
+
+&lt;p&gt;Myself, I&amp;rsquo;ve been continuing to work very hard with &lt;a href=&#34;http://www.icarusgv.com/&#34; target=&#34;\_blank&#34;&gt; Icarus Group Ventures, &lt;/a&gt; really expanding our platform and team (hiring soon!).&lt;/p&gt;
+
+&lt;p&gt;Then I&amp;rsquo;ve taken on building a desktop application for an engineering firm. On this project, I am on my own, so designer, manager, and developer! Focused on maintainability, I&amp;rsquo;m following test driven development (TDD) principles and loving it. These two project are definitely taking up the vast majority of my time, but I&amp;rsquo;m always trying to keep learning.&lt;/p&gt;
+
+&lt;p&gt;On the learning front, I&amp;rsquo;ve launched two open source projects &lt;a href=&#34;https://github.com/ttiveron&#34; target=&#34;\_blank&#34;&gt;(my rad Github).&lt;/a&gt; One is the theme to this blog, &lt;a href=&#34;https://github.com/ttiveron/beautifultom&#34; target=&#34;\_blank&#34;&gt;beautifultom&lt;/a&gt;, and the other is a tool for creating rainfall files that work with EPA SWMM, &lt;a href=&#34;https://github.com/ttiveron/EPA-SWMM-Rainfall-File-Creator&#34; target=&#34;\_blank&#34;&gt;EPA SWMM Rainfall File Creator&lt;/a&gt;.
+I&amp;rsquo;m hoping to learn more about Git, while learning to manage an OS project, and working with other developers!
+I hope that you find either of these tools useful and will help me out making them better for everyone.&lt;/p&gt;
+
+&lt;h4 id=&#34;i-m-hoping-over-the-next-month-or-so-to-post-some-regular-updates-on-the-following-topics&#34;&gt;I&amp;rsquo;m hoping over the next month or so to post some regular updates on the following topics:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Details on the EPA SWMM Rainfall File Creator&lt;/li&gt;
+&lt;li&gt;Details on beautifultom&lt;/li&gt;
+&lt;li&gt;Enterprise Storage Frameworks&lt;/li&gt;
+&lt;li&gt;C# - await&amp;hellip; await&amp;hellip; await&amp;hellip; TASK!&lt;/li&gt;
+&lt;li&gt;Impostor Syndrome&lt;/li&gt;
+&lt;li&gt;Seven Programming Languages in Seven Weeks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I hope you stay tuned, and thanks for reading,&lt;/p&gt;
+
+&lt;p&gt;Thomas&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
