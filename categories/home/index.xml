@@ -8,7 +8,9 @@
     <language>en-us</language>
     <managingEditor>thomas@tiveron.ca (Thomas Tiveron)</managingEditor>
     <webMaster>thomas@tiveron.ca (Thomas Tiveron)</webMaster>
-    <atom:link href="http://tiveron.ca/categories/home/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://tiveron.ca/categories/home/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Thomas Tiveron</title>
@@ -16,16 +18,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>thomas@tiveron.ca (Thomas Tiveron)</author>
       <guid>http://tiveron.ca/home/</guid>
-      <description>
-
-&lt;h4 id=&#34;i-love-applying-technology-to-traditional-fields-providing-eloquent-solutions-to-complex-problems&#34;&gt;I love applying technology to traditional fields, providing eloquent solutions to complex problems!&lt;/h4&gt;
-
-&lt;p&gt;I NEVER waste an opportunity to learn, and have been leveraging my engineering mindset to quickly develop new skills every chance that I get + whatever I can squeeze in on a Sunday :p&lt;/p&gt;
-
-&lt;p&gt;From server room design, HVAC and electrical planning, to server administration, and software development, both life-cycle management and programming, I am always up for a challenge.&lt;/p&gt;
-
-&lt;p&gt;I hope you find here a solution to a problem of yours! If you think I can help you out, feel free to contact me below. Thanks for reading!&lt;/p&gt;
-</description>
+      <description>I love applying technology to traditional fields, providing eloquent solutions to complex problems! I NEVER waste an opportunity to learn, and have been leveraging my engineering mindset to quickly develop new skills every chance that I get + whatever I can squeeze in on a Sunday :p
+From server room design, HVAC and electrical planning, to server administration, and software development, both life-cycle management and programming, I am always up for a challenge.</description>
     </item>
     
   </channel>

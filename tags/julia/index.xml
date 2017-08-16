@@ -9,7 +9,9 @@
     <managingEditor>thomas@tiveron.ca (Thomas Tiveron)</managingEditor>
     <webMaster>thomas@tiveron.ca (Thomas Tiveron)</webMaster>
     <lastBuildDate>Sun, 11 Sep 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://tiveron.ca/tags/julia/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://tiveron.ca/tags/julia/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Should I Learn Julia?</title>
@@ -17,40 +19,8 @@
       <pubDate>Sun, 11 Sep 2016 00:00:00 +0000</pubDate>
       <author>thomas@tiveron.ca (Thomas Tiveron)</author>
       <guid>http://tiveron.ca/blog/should-i-learn-julia/</guid>
-      <description>
-
-&lt;h3 id=&#34;why-julia-why-now&#34;&gt;Why Julia, Why Now?&lt;/h3&gt;
-
-&lt;p&gt;Programming is a diverse field! You have people from all around the world, tackling every sort of problem imaginable with their computers. From web-developers, to mobile app creators, from legacy code maintainers, to scientific computing mathematicians, many people need different features and different languages.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://julialang.org/&#34; target=&#34;\_blank&#34; alt=&#34;Julialang Homepage&#34;&gt; Julia &lt;/a&gt; is a relatively young language, released in 2012, and was designed to meet the high-performance needs of numerical and scientific programming; while being a general-purpose programming language. Depending on what you are looking to build now or in the future Julia may just be the language for you!&lt;/p&gt;
-
-&lt;h3 id=&#34;nassim-taleb-and-julia&#34;&gt;Nassim Taleb and Julia&lt;/h3&gt;
-
-&lt;p&gt;For those of you who don&amp;rsquo;t know who &lt;a href=&#34;https://twitter.com/nntaleb&#34; target=&#34;\_blank&#34; alt=&#34;Nassim Taleb Twitter&#34;&gt; Nassim Taleb &lt;/a&gt; is just bear with me for a minute on this tangent.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;But really if you haven&amp;rsquo;t heard of him you should check out some of his work &lt;a href=&#34;https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb&#34; target=&#34;\_blank&#34; alt=&#34;Nassim Taleb&#34;&gt; Wikipedia - Nassim Taleb&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;One of Nassim Taleb&amp;rsquo;s areas of expertise is in the field of risk management, and if you are going to undertake the commitment of learning a new programming language you should think a little bit about risk. While I do believe that you can&amp;rsquo;t really choose a &lt;em&gt;wrong&lt;/em&gt; programming language, depending on what you are trying to get your computer to do, some languages will make this task easier or at least more intuitive. Nassim Taleb often discusses a risk management technique he calls &amp;ldquo;the barbell strategy&amp;rdquo;. The barbell strategy was initially applied to investments. Many of you are probably familiar with a graph that looks like the following:&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&#34;postimage&#34; src=&#34;../media/160911_RiskvReturn.png&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Many investors in search of a higher return, choose to be somewhere in the middle. They underestimate their risk exposure and end up going bust!&lt;/p&gt;
-
-&lt;p&gt;The barbell strategy suggests, putting what you need at the left side of the chart, where you get a small and safe return. Then to increase your risk exposure, put some assets to the far right, where they &lt;em&gt;may&lt;/em&gt; get a large return, but if you lose them you will not be broke. You get the potential for some large returns on a portion of your assets, while you keep the assets you need safe.&lt;/p&gt;
-
-&lt;h4 id=&#34;umm-i-thought-we-were-talking-about-julia&#34;&gt;Umm&amp;hellip; I Thought We Were Talking About Julia?&lt;/h4&gt;
-
-&lt;p&gt;Yes! So my main programming language is C#. I consider C# to be a safe language with plenty of demand and a solid future (JavaScript would be another great example). With this in mind, I can invest time into learning Julia, with the goal of expanding my data science and numerical programming abilities. Sure there is R, or Python, or Scala, or some others, but I have decided that Julia offers a great potential (&lt;em&gt;return&lt;/em&gt;) and that now is a great time to start learning it. As Julia continues to grow and if it does become &lt;em&gt;the&lt;/em&gt; language for specific applications, I will have years of experience at that time.&lt;/p&gt;
-
-&lt;p&gt;If you want to become a software developer today, should Julia be your first language? It is fairly safe to say no. BUT on the condition that you can handle most the programming challenges in your field already with a language that lets you share and work on code with others, then Julia would be a great skill to add to your toolkit!&lt;/p&gt;
-
-&lt;p&gt;Stay tuned for more about getting started with Julia and my experience so far.&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading,&lt;/p&gt;
-
-&lt;p&gt;Thomas&lt;/p&gt;
-</description>
+      <description>Why Julia, Why Now? Programming is a diverse field! You have people from all around the world, tackling every sort of problem imaginable with their computers. From web-developers, to mobile app creators, from legacy code maintainers, to scientific computing mathematicians, many people need different features and different languages.
+Julia  is a relatively young language, released in 2012, and was designed to meet the high-performance needs of numerical and scientific programming; while being a general-purpose programming language.</description>
     </item>
     
   </channel>

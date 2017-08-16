@@ -9,7 +9,9 @@
     <managingEditor>thomas@tiveron.ca (Thomas Tiveron)</managingEditor>
     <webMaster>thomas@tiveron.ca (Thomas Tiveron)</webMaster>
     <lastBuildDate>Sun, 11 Sep 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://tiveron.ca/categories/learning/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://tiveron.ca/categories/learning/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Should I Learn Julia?</title>
@@ -17,40 +19,8 @@
       <pubDate>Sun, 11 Sep 2016 00:00:00 +0000</pubDate>
       <author>thomas@tiveron.ca (Thomas Tiveron)</author>
       <guid>http://tiveron.ca/blog/should-i-learn-julia/</guid>
-      <description>
-
-&lt;h3 id=&#34;why-julia-why-now&#34;&gt;Why Julia, Why Now?&lt;/h3&gt;
-
-&lt;p&gt;Programming is a diverse field! You have people from all around the world, tackling every sort of problem imaginable with their computers. From web-developers, to mobile app creators, from legacy code maintainers, to scientific computing mathematicians, many people need different features and different languages.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://julialang.org/&#34; target=&#34;\_blank&#34; alt=&#34;Julialang Homepage&#34;&gt; Julia &lt;/a&gt; is a relatively young language, released in 2012, and was designed to meet the high-performance needs of numerical and scientific programming; while being a general-purpose programming language. Depending on what you are looking to build now or in the future Julia may just be the language for you!&lt;/p&gt;
-
-&lt;h3 id=&#34;nassim-taleb-and-julia&#34;&gt;Nassim Taleb and Julia&lt;/h3&gt;
-
-&lt;p&gt;For those of you who don&amp;rsquo;t know who &lt;a href=&#34;https://twitter.com/nntaleb&#34; target=&#34;\_blank&#34; alt=&#34;Nassim Taleb Twitter&#34;&gt; Nassim Taleb &lt;/a&gt; is just bear with me for a minute on this tangent.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;But really if you haven&amp;rsquo;t heard of him you should check out some of his work &lt;a href=&#34;https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb&#34; target=&#34;\_blank&#34; alt=&#34;Nassim Taleb&#34;&gt; Wikipedia - Nassim Taleb&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;One of Nassim Taleb&amp;rsquo;s areas of expertise is in the field of risk management, and if you are going to undertake the commitment of learning a new programming language you should think a little bit about risk. While I do believe that you can&amp;rsquo;t really choose a &lt;em&gt;wrong&lt;/em&gt; programming language, depending on what you are trying to get your computer to do, some languages will make this task easier or at least more intuitive. Nassim Taleb often discusses a risk management technique he calls &amp;ldquo;the barbell strategy&amp;rdquo;. The barbell strategy was initially applied to investments. Many of you are probably familiar with a graph that looks like the following:&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&#34;postimage&#34; src=&#34;../media/160911_RiskvReturn.png&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Many investors in search of a higher return, choose to be somewhere in the middle. They underestimate their risk exposure and end up going bust!&lt;/p&gt;
-
-&lt;p&gt;The barbell strategy suggests, putting what you need at the left side of the chart, where you get a small and safe return. Then to increase your risk exposure, put some assets to the far right, where they &lt;em&gt;may&lt;/em&gt; get a large return, but if you lose them you will not be broke. You get the potential for some large returns on a portion of your assets, while you keep the assets you need safe.&lt;/p&gt;
-
-&lt;h4 id=&#34;umm-i-thought-we-were-talking-about-julia&#34;&gt;Umm&amp;hellip; I Thought We Were Talking About Julia?&lt;/h4&gt;
-
-&lt;p&gt;Yes! So my main programming language is C#. I consider C# to be a safe language with plenty of demand and a solid future (JavaScript would be another great example). With this in mind, I can invest time into learning Julia, with the goal of expanding my data science and numerical programming abilities. Sure there is R, or Python, or Scala, or some others, but I have decided that Julia offers a great potential (&lt;em&gt;return&lt;/em&gt;) and that now is a great time to start learning it. As Julia continues to grow and if it does become &lt;em&gt;the&lt;/em&gt; language for specific applications, I will have years of experience at that time.&lt;/p&gt;
-
-&lt;p&gt;If you want to become a software developer today, should Julia be your first language? It is fairly safe to say no. BUT on the condition that you can handle most the programming challenges in your field already with a language that lets you share and work on code with others, then Julia would be a great skill to add to your toolkit!&lt;/p&gt;
-
-&lt;p&gt;Stay tuned for more about getting started with Julia and my experience so far.&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading,&lt;/p&gt;
-
-&lt;p&gt;Thomas&lt;/p&gt;
-</description>
+      <description>Why Julia, Why Now? Programming is a diverse field! You have people from all around the world, tackling every sort of problem imaginable with their computers. From web-developers, to mobile app creators, from legacy code maintainers, to scientific computing mathematicians, many people need different features and different languages.
+Julia  is a relatively young language, released in 2012, and was designed to meet the high-performance needs of numerical and scientific programming; while being a general-purpose programming language.</description>
     </item>
     
     <item>
@@ -59,84 +29,7 @@
       <pubDate>Sat, 13 Aug 2016 18:46:35 -0400</pubDate>
       <author>thomas@tiveron.ca (Thomas Tiveron)</author>
       <guid>http://tiveron.ca/blog/csharp-intermediate/</guid>
-      <description>
-
-&lt;h4 id=&#34;awkwardly-wondering-what-to-do-after-you-get-through-your-first-c-tutorials&#34;&gt;Awkwardly wondering what to do after you get through your first C# tutorials?&lt;/h4&gt;
-
-&lt;h4 id=&#34;learned-the-c-syntax-but-now-what&#34;&gt;Learned the C# syntax, but now what?&lt;/h4&gt;
-
-&lt;h2&gt; Intermediate C# Developer &lt;/h2&gt;
-
-&lt;p&gt;This post builds off my last to help direct you on your path to becoming a professional C# developer. This material will be right for you if you have been working with C# for about 3-6 months. There is some wiggle room in those numbers, as there always is, but if you are entirely unfamiliar with C#, please go here : &lt;a href=&#34;http://tiveron.ca/blog/learning-csharp/&#34; title=&#34;Thomas Tiveron&#39;s Learning C#&#34;&gt;Learning C#&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Being an intermediate developer can be tough. You know how to get a project started and you can Google search your way through Stack Overflow well enough to do most things, but when can you consider yourself a &amp;ldquo;professional&amp;rdquo;? Yes, that elusive term that even many with it don&amp;rsquo;t even feel that they deserve. Even great developers like Scott Hanselman say &lt;a href=&#34;http://www.hanselman.com/blog/ImAPhonyAreYou.aspx&#34; target=&#34;\_blank&#34;&gt; &amp;ldquo;I&amp;rsquo;m a phony!&amp;rdquo;&lt;/a&gt;. So when can you feel confident in your skills??&lt;/p&gt;
-
-&lt;p&gt;If you are here, I would say you should feel some confidence! You are doing the most important thing, you are working to be better. Now you won&amp;rsquo;t likely be Senior Software Engineer material after finishing just these videos, but you will definitely have a deeper understanding of how C# works.&lt;/p&gt;
-
-&lt;p&gt;Again, this post will be made up of a series of &lt;a href=&#34;https://www.pluralsight.com&#34; target=&#34;\_blank&#34;&gt; PluralSight &lt;/a&gt; courses. You should know that I don&amp;rsquo;t get any credit for directing you there, I just seriously believe it is one of the best places for C# learning! The only thing they lack is a little guidance, so hopefully my series of posts will guide you on your journey of learning C#.&lt;/p&gt;
-
-&lt;p&gt;&lt;h2&gt; Intermediate Level C# &lt;/h2&gt;
-&lt;h3&gt; Being A Better Coder &lt;/h3&gt;
-&lt;h3&gt; Duration : 8 hours 25 minutes &lt;/h3&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;a-href-https-app-pluralsight-com-library-courses-csharp-best-practices-improving-basics-target-blank-alt-pluralsight-c-best-practices-improving-on-the-basics-c-best-practices-improving-on-the-basics-a&#34;&gt;&lt;a href=&#34;https://app.pluralsight.com/library/courses/csharp-best-practices-improving-basics/&#34; target=&#34;\_blank&#34; alt=&#34;PluralSight C# Best Practices : Improving on the Basics&#34;&gt; C# Best Practices : Improving on the Basics &lt;/a&gt;&lt;/h4&gt;
-
-&lt;h4 id=&#34;a-href-https-app-pluralsight-com-library-courses-csharp-best-practices-collections-generics-target-blank-alt-pluralsight-c-best-practices-2-collections-and-generics-c-best-practices-2-collections-and-generics-a&#34;&gt;&lt;a href=&#34;https://app.pluralsight.com/library/courses/csharp-best-practices-collections-generics/&#34; target=&#34;\_blank&#34; alt=&#34;PluralSight C# Best Practices 2 : Collections and Generics&#34;&gt; C# Best Practices 2 : Collections and Generics &lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;These two courses are by Deborah Kurata, and are an excellent place for the aspiring C# developer to continue their learning. Early tutorials and courses tend to focus on syntax and just the basics of how things can be laid out, and how they work together. What those courses are lacking is the important aspect of what makes good code. These two courses cover everything from what makes a good class, to how to create good methods, and introductions to collections, generics, and LINQ.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pro Tip :&lt;/strong&gt; If you are planning on doing the following deep dive videos, you could skip the second course here, as these topics will be covered in-depth in the following series.&lt;/p&gt;
-
-&lt;p&gt;&lt;h2&gt; Intermediate Level C# &lt;/h2&gt;
-&lt;h3&gt; Language Deep Dive &lt;/h3&gt;
-&lt;h3&gt; Duration : 27 hours 51 minutes &lt;/h3&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;a-href-https-app-pluralsight-com-library-courses-csharp-interfaces-target-blank-alt-pluralsight-c-interfaces-c-interfaces-a&#34;&gt;&lt;a href=&#34;https://app.pluralsight.com/library/courses/csharp-interfaces/&#34; target=&#34;\_blank&#34; alt=&#34;PluralSight C# Interfaces&#34;&gt; C# Interfaces &lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;I debated including this course in my previous post on &lt;a href=&#34;http://tiveron.ca/blog/csharp-advanced-foundations/&#34; target=&#34;\_blank&#34; alt=&#34;Tiveron -C#  Advanced Foundations&#34;&gt; C# Advanced Foundations&lt;/a&gt;. This course covers the differences between interfaces, abstract classes, and concrete classes; and when to use them. Interfaces are taught not just from a C# perspective, but through the important Object-Oriented Programming concept of inheritance.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pro Tip :&lt;/strong&gt; Understanding interfaces will help you with all of the following series!&lt;/p&gt;
-
-&lt;h4 id=&#34;a-href-https-app-pluralsight-com-library-courses-csharp-collections-target-blank-alt-pluralsight-c-collections-fundamentals-c-collections-fundamentals-a&#34;&gt;&lt;a href=&#34;https://app.pluralsight.com/library/courses/csharp-collections/&#34; target=&#34;\_blank&#34; alt=&#34;PluralSight C# Collections Fundamentals&#34;&gt; C# Collections Fundamentals &lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;This course spends about 20 minutes on each of the main types of C# collections. It explains the pros and cons of each and in which situations you would want to use them.&lt;/p&gt;
-
-&lt;h4 id=&#34;a-href-https-app-pluralsight-com-library-courses-csharp-equality-comparisons-target-blank-alt-pluralsight-c-equality-and-comparisons-c-equality-and-comparisons-a&#34;&gt;&lt;a href=&#34;https://app.pluralsight.com/library/courses/csharp-equality-comparisons/&#34; target=&#34;\_blank&#34; alt=&#34;PluralSight C# Equality and Comparisons&#34;&gt; C# Equality and Comparisons &lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;Eventually you are going to want to compare objects that are more complicated than the standard C# value types. How will your code know if your cat object &amp;gt; dog object? The answer is false, but that&amp;rsquo;s another story&amp;hellip; You need to be able to define how objects are compared, there are a couple of interfaces which will help you with this, and they are all explained in this series.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pro Tip :&lt;/strong&gt; These above three courses will expand your knowledge of how to structure your code, what existing C# structures you can start using now, and finally how to make the most of your custom classes.&lt;/p&gt;
-
-&lt;h4 id=&#34;a-href-https-app-pluralsight-com-library-courses-csharp-events-delegates-target-blank-alt-pluralsight-c-events-delegates-and-lambdas-c-events-delegates-and-lambdas-a&#34;&gt;&lt;a href=&#34;https://app.pluralsight.com/library/courses/csharp-events-delegates/&#34; target=&#34;\_blank&#34; alt=&#34;PluralSight C# Events, Delegates and Lambdas&#34;&gt; C# Events, Delegates and Lambdas &lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;Events are a very powerful feature of C#. You will often want to write code that only executes when something happens. This course will teach you how, and how to keep your code clean when you only need to use a function once, with anonymous functions.&lt;/p&gt;
-
-&lt;h4 id=&#34;a-href-https-app-pluralsight-com-library-courses-csharp-generics-target-blank-alt-pluralsight-c-generics-c-generics-a&#34;&gt;&lt;a href=&#34;https://app.pluralsight.com/library/courses/csharp-generics/&#34; target=&#34;\_blank&#34; alt=&#34;PluralSight C# Generics&#34;&gt; C# Generics &lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;You&amp;rsquo;ve been probably using generics since the collections course without fully realizing it. Upon completion of this series you will be able to use generics with your custom collections, classes, APIs, and more.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pro Tip :&lt;/strong&gt; The above two courses really fit together. Generics are a critical part of higher level anonymous functions (Action&lt;T&gt; and Func&lt;T,TResult&gt;), but are used in many other places, particularly collections.&lt;/p&gt;
-
-&lt;h4 id=&#34;a-href-https-app-pluralsight-com-library-courses-csharp-equality-comparisons-target-blank-alt-pluralsight-c-practical-linq-c-practical-linq-a&#34;&gt;&lt;a href=&#34;https://app.pluralsight.com/library/courses/csharp-equality-comparisons/&#34; target=&#34;\_blank&#34; alt=&#34;PluralSight C# Practical LINQ&#34;&gt; C# Practical LINQ &lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;Another course by Deborah Kurata, and this one will get you up to speed on the great power of LINQ. You will learn the two methods for using LINQ, declarative and implicit, and when to use each one.&lt;/p&gt;
-
-&lt;h4 id=&#34;a-href-https-app-pluralsight-com-library-courses-csharp-extension-methods-target-blank-alt-pluralsight-c-extension-methods-c-extension-methods-a&#34;&gt;&lt;a href=&#34;https://app.pluralsight.com/library/courses/csharp-extension-methods/&#34; target=&#34;\_blank&#34; alt=&#34;PluralSight C# Extension Methods&#34;&gt; C# Extension Methods &lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;After the LINQ course you will know that they are built using extension methods. This course will further your ability to not just use LINQ methods, but to write your own. You will also learn how to work around many restrictions, such as restrictive access modifiers through various compiler tricks.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pro Tip :&lt;/strong&gt; These final two courses on LINQ and Extension Methods will allow you expand (no pun intended) on the libraries you may use, and to interact with your programs data with ease!&lt;/p&gt;
-
-&lt;p&gt;Think you can handle the deep dive?&lt;/p&gt;
-
-&lt;p&gt;I do! Getting through the deep dive will give you a really solid knowledge of a large chunk of C#. Not only that, but you will have a great understanding of when to use what. Knowing the strengths and weaknesses of different collection types and the use of lambda functions, especially when used with LINQ or your own extension methods will make you a much better programmer. You will not only be able to tackle harder problems, but will be able to do so much more efficiently.&lt;/p&gt;
-
-&lt;p&gt;I hope my outlines are helping you navigate the great PluralSight courses! I have one more coming up shortly.&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading,&lt;/p&gt;
-
-&lt;p&gt;Thomas&lt;/p&gt;
-</description>
+      <description>Awkwardly wondering what to do after you get through your first C# tutorials? Learned the C# syntax, but now what?  Intermediate C# Developer  This post builds off my last to help direct you on your path to becoming a professional C# developer. This material will be right for you if you have been working with C# for about 3-6 months. There is some wiggle room in those numbers, as there always is, but if you are entirely unfamiliar with C#, please go here : Learning C#.</description>
     </item>
     
     <item>
@@ -145,125 +38,17 @@
       <pubDate>Mon, 18 Jul 2016 19:46:35 -0400</pubDate>
       <author>thomas@tiveron.ca (Thomas Tiveron)</author>
       <guid>http://tiveron.ca/blog/csharp-advanced-foundations/</guid>
-      <description>
-
-&lt;h2&gt; Ready to take you C# skills to the next level??&lt;/h2&gt;
-
-&lt;p&gt;When I got started learning C# I looked to &lt;a href=&#34;https://www.pluralsight.com&#34; target=&#34;\_blank&#34;&gt; PluralSight &lt;/a&gt;. This has proven to be a great choice! There are literally weeks worth of great C# and .Net content. While I did not get started advancing my C# knowledge THAT long ago, it was before PluralSight started offering &amp;ldquo;Paths&amp;rdquo;. At that time, way back when, they had just a few old blog posts to guide me on where to get started, and which order to watch some videos in. With the release of PluralSight&amp;rsquo;s C# Path I started comparing my learning track with theirs&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;I may be bias - but I think mine&amp;rsquo;s better! So I&amp;rsquo;m going to share it with you.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Note: If you are entirely new to C# check out my blog post for you here : &lt;a href=&#34;http://tiveron.ca/blog/learning-csharp/&#34; title=&#34;Thomas Tiveron&#39;s Learning C#&#34;&gt;Learning C#&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h2&gt; Advanced Foundations Level &lt;/h2&gt;
-&lt;h3&gt; Duration : 20 hours 13 minutes &lt;/h3&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;a-href-https-app-pluralsight-com-library-courses-c-sharp-fundamentals-with-visual-studio-2015-target-blank-alt-pluralsight-c-fundamentals-with-visual-studios-2015-c-fundamentals-with-visual-studio-2015-a&#34;&gt;&lt;a href=&#34;https://app.pluralsight.com/library/courses/c-sharp-fundamentals-with-visual-studio-2015/&#34; target=&#34;\_blank&#34; alt=&#34;PluralSight C# Fundamentals with Visual Studios 2015&#34;&gt; C# Fundamentals With Visual Studio 2015 &lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;Even after the free tutorials I linked in my Learning C# post, I would still suggest doing this course. Practice makes perfect, and the instructor Scott Allen (on Twitter
-  &lt;a href=&#34;https://twitter.com/OdeToCode/&#34; target=&#34;\_blank&#34; alt=&#34;Scott Allen&#39;s Twitter5&#34;&gt; @OdeToCode &lt;/a&gt;
-) is great at explaining things. It may be your second or even third time through some of the C# basics, but it won&amp;rsquo;t hurt you and you&amp;rsquo;ll get a chance to explore some related concepts like the Common Language Runtime (CLR), and Object Oriented Programming.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pro Tip :&lt;/strong&gt; If there is a new version of Visual Studios, check for a new version of this course.&lt;/p&gt;
-
-&lt;h4 id=&#34;a-href-https-app-pluralsight-com-library-courses-csharp-fundamentals-2-target-blank-alt-pluralsight-c-programming-paradigms-c-programming-paradigms-a&#34;&gt;&lt;a href=&#34;https://app.pluralsight.com/library/courses/csharp-fundamentals-2/&#34; target=&#34;\_blank&#34; alt=&#34;PluralSight C# Programming Paradigms&#34;&gt; C# Programming Paradigms &lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;This course is again by Scott Allen and introduces you to some really powerful C# features. Language Integrated Queries, or LINQ, will become a regular part of your programming once you learn them. The Dynamic Language Runtime, and Functional Programming will give you glimpse at some new ways to think about your programs. Finally, the course wraps up with Scott&amp;rsquo;s 10 rules for writing better C#.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pro Tip :&lt;/strong&gt; Even if you know the rest, watch the 10 rules! Scott has been a Microsoft MVP for over 11 years now, take about advice from a pro!&lt;/p&gt;
-
-&lt;h4 id=&#34;a-href-https-app-pluralsight-com-library-courses-csharp-6-whats-new-target-blank-alt-pluralsight-c-6-what-s-new-what-s-new-in-c-6-a&#34;&gt;&lt;a href=&#34;https://app.pluralsight.com/library/courses/csharp-6-whats-new/&#34; target=&#34;\_blank&#34; alt=&#34;PluralSight C# 6 What&#39;s New&#34;&gt; What&amp;rsquo;s New in C# 6 &lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;Great chance to get a look at the internals of C#, hear about how the language is changing, and the roadmap it is on. While the last two series will get you started writing great C#, this one will try to save you time by showing you some of the new syntax changes. Also, get ready for you introduction to Roslyn.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pro Tip :&lt;/strong&gt; If there is a new C# (7 isn&amp;rsquo;t too far away as I write this post), check out that one too.&lt;/p&gt;
-
-&lt;h4 id=&#34;a-href-https-app-pluralsight-com-library-courses-clr-fundamentals-target-blank-alt-pluralsight-clr-fundamentals-clr-fundamentals-a&#34;&gt;&lt;a href=&#34;https://app.pluralsight.com/library/courses/clr-fundamentals/&#34; target=&#34;\_blank&#34; alt=&#34;PluralSight CLR Fundamentals&#34;&gt; CLR Fundamentals &lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;This course slows things down with Mike Woodring (another Microsoft MVP) and will explain how all the acronyms you&amp;rsquo;re always hearing work together. From what really is the .Net Framework, to understanding Just-In-Time (JIT) Compilation, the Global Assembly Cache (GAC), and even concepts like CLR Interop! If all that sounds like gibberish to you, you know what to do, watch these videos!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pro Tip :&lt;/strong&gt; Don&amp;rsquo;t skip this one, this low level stuff could save you a lot of time debugging in the future.&lt;/p&gt;
-
-&lt;h4 id=&#34;a-href-https-app-pluralsight-com-library-courses-clr-threading-target-blank-alt-pluralsight-clr-threading-clr-threading-a&#34;&gt;&lt;a href=&#34;https://app.pluralsight.com/library/courses/clr-threading/&#34; target=&#34;\_blank&#34; alt=&#34;PluralSight CLR Threading&#34;&gt; CLR Threading &lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;How many cores does your processor have? I bet it&amp;rsquo;s more than one. I bet it&amp;rsquo;s more than two. You&amp;rsquo;re going to want to use them, so you&amp;rsquo;re going to want to watch this one. It is authored again by Mike Woodring (on Twitter
-  &lt;a href=&#34;https://twitter.com/mcwoodring&#34; target=&#34;\_blank&#34; alt=&#34;Mike Woodring&#39;s Twitter&#34;&gt; @mcwoodring &lt;/a&gt;
-, and he is going to help you get through understanding the main parallel programming concepts, and concerns.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pro Tip :&lt;/strong&gt; I didn&amp;rsquo;t use these ideas right away, but when I needed them I was happy to know them.&lt;/p&gt;
-
-&lt;h4 id=&#34;a-href-https-app-pluralsight-com-library-courses-net-regular-expressions-target-blank-alt-pluralsight-net-regular-expressions-net-regular-expressions-a&#34;&gt;&lt;a href=&#34;https://app.pluralsight.com/library/courses/net-regular-expressions/&#34; target=&#34;\_blank&#34; alt=&#34;PluralSight .Net Regular Expressions&#34;&gt; .Net Regular Expressions &lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;I almost didn&amp;rsquo;t watch this course, but by the end I was happy I did. Regular expressions are used for pattern matching with text. How will you know if a user input string is an email address? Or a phone number? Regular expressions can! Yes, the syntax gets a little (a lot) crazy, but should you ever need to do a lot of text processing you will be happy to know about the power of regular expressions.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pro Tip :&lt;/strong&gt; Turn up the video speed a bit. Get the concepts, you can look up the specifics when you need them.&lt;/p&gt;
-
-&lt;p&gt;I never said it was going to be quick! There is a lot to learn with C#, but thankfully these core skills can be transferred to all types of projects, desktop (WPF, Windows Form, Linux and Mac with .Net Core), mobile (iOS, Android, and Windows with Xamarin), and web-apps (ASP.NET).&lt;/p&gt;
-
-&lt;p&gt;Stay tuned for more my next building block of courses next week. If you make it through all the above before then, just message me and I&amp;rsquo;ll send you more material you coding beast!&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading,&lt;/p&gt;
-
-&lt;p&gt;Thomas&lt;/p&gt;
-</description>
+      <description>Ready to take you C# skills to the next level?? When I got started learning C# I looked to PluralSight . This has proven to be a great choice! There are literally weeks worth of great C# and .Net content. While I did not get started advancing my C# knowledge THAT long ago, it was before PluralSight started offering &amp;ldquo;Paths&amp;rdquo;. At that time, way back when, they had just a few old blog posts to guide me on where to get started, and which order to watch some videos in.</description>
     </item>
     
     <item>
       <title>Should I Learn R or Python?</title>
-      <link>http://tiveron.ca/blog/learning-R-or-Python/</link>
+      <link>http://tiveron.ca/blog/learning-r-or-python/</link>
       <pubDate>Tue, 05 Jul 2016 21:16:38 -0400</pubDate>
       <author>thomas@tiveron.ca (Thomas Tiveron)</author>
-      <guid>http://tiveron.ca/blog/learning-R-or-Python/</guid>
-      <description>
-
-&lt;h3 id=&#34;r-or-python-for-data-science&#34;&gt;R or Python for Data Science&lt;/h3&gt;
-
-&lt;p&gt;So you want to be a data scientist, but are stuck on the first polarizing decision of learning R or Python&amp;hellip; I&amp;rsquo;m going to try to help you!&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m also going to attempt to not make this post follow the typical &amp;ldquo;R is maybe the best, or Python, or neither&amp;rdquo;, as I find these kind of articles informative, but not that helpful. If you are wanting a break down of R and Python&amp;rsquo;s strengths, ease of learning, salaries, etc. you can find soo many with Google, I&amp;rsquo;ll even save you the work of typing it in -  &lt;a href=&#34;https://www.google.com/?gfe_rd=cr&amp;amp;ei=IV98V8bMLYKN8Qf3vbOwBw#q=R+or+Python&#34; title=&#34;R or Python Google Search Results&#34;&gt;R or Python&lt;/a&gt;.
-But while their infographics are detailed and interesting, reviewing them does not help you make the decision of which to start learning. So that is what I&amp;rsquo;ll try to do here, in just two simple questions.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Disclaimer : I&amp;rsquo;m neither an R nor a Python expert, but I think my little bit of experience with both can set you on the right path&lt;/em&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;1-do-have-a-data-set-and-a-problem-in-mind&#34;&gt;1. Do have a data set and a problem in mind?&lt;/h4&gt;
-
-&lt;h5 id=&#34;yes-r&#34;&gt;Yes - R&lt;/h5&gt;
-
-&lt;h5 id=&#34;no-python&#34;&gt;No - Python&lt;/h5&gt;
-
-&lt;p&gt;I feel this question may split developers and academics (generalizing a lot here). Academics typically have a thesis, which is a set problem they are wanting to solve, and are looking to a data science language to beef-up what they might have tried to do in Excel. In contrast, developers, may be wanting to find work with a company and be looking to a data science language to add valuable insight to business data.
-With these two needs in mind, I think the academic approaching a problem with a mathematical rigor could find R a great place to start, and the developer looking to hack together business data, could find Python great. Now obviously, I&amp;rsquo;m making some assumptions here, but if you can see yourself fitting into either camp, that would be my advice.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;
-&lt;br&gt;Choose R - If you have a dataset (sensorlogs.csv, or a database). You&amp;rsquo;re going be able to get up and running very quickly and answering questions with R.
-&lt;br&gt;Choose Python - If you need to scrap a website, hack together program outputs, you may need the flexibility of Python to get things together.&lt;/p&gt;
-
-&lt;h4 id=&#34;2-do-you-have-programming-experience&#34;&gt;2. Do you have programming experience?&lt;/h4&gt;
-
-&lt;h5 id=&#34;yes-r-1&#34;&gt;Yes - R&lt;/h5&gt;
-
-&lt;h5 id=&#34;no-python-1&#34;&gt;No - Python&lt;/h5&gt;
-
-&lt;p&gt;This may seem a little reverse, but hear me out. The simple approach is to say if you have programming experience, you can learn Python quickly and be solving problems in no time; while learning R is an entirely new beast. However, I think that if you already know how to program, you can use that language to solve the parts of your problem which R would not be as strong at. For example, if you want to build an entire application and require some data analysis. You can build the application in your known language, then introduce R to crunch data as required. Now in contrast, if you have no programming experience, I think you should learn Python. The journey of learning will always open new and unforeseen doors. If a year from now you need to build a web service, you probably won&amp;rsquo;t get far with R there. Most people will not get a job where they are doing pure data science all the time. If you end up needing to develop something, you will probably need other tools. If you don&amp;rsquo;t have other tools, learn Python.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;
-&lt;br&gt;Choose R - If you already have a working understanding of another programming language.
-&lt;br&gt;Choose Python - If you have never programmed before, as you can do almost anything with it.&lt;/p&gt;
-
-&lt;h4 id=&#34;the-choice-is-yours&#34;&gt;The Choice Is Yours&lt;/h4&gt;
-
-&lt;p&gt;I tend to see R as a really fancy calculator, and I&amp;rsquo;m talking really fancy, fancier than even a &lt;a href=&#34;https://education.ti.com/en/us/products/calculators/graphing-calculators/ti-89-titanium/features/features-summary&#34; title=&#34;TI-89 Titanium&#34;&gt;Titanium TI-89&lt;/a&gt;. This isn&amp;rsquo;t meant to be an insult! On my desk I always have my calculator next to me (yes I know there is one on my computer), but my calculator is better because it is specialized. R could be the best choice for you if you have data, even dirty data. Even if you don&amp;rsquo;t have a clearly defined goal with that data, R has many great tools for exploring and visualizing that data.&lt;/p&gt;
-
-&lt;p&gt;Now Python on the other hand, I see as good kitchen knife (where do I come up with these metaphors??). Sure there are specialized knives, pairing, steak, bread, etc. But for tackling the biggest variety of jobs, that kitch&amp;hellip; err Python is going to get the job done.&lt;/p&gt;
-
-&lt;p&gt;So, to repeat myself like a broken record (I do similes too). If you have data, or get to work with just data choose R, especially if you already know a different programming language to handle any other development needs. If you don&amp;rsquo;t know any other programming language, or need to create something to generate your data choose Python.&lt;/p&gt;
-
-&lt;p&gt;I know everyone won&amp;rsquo;t agree with me, and rightfully so. I also had to generalize a fair bit to try to draw a clear line between the two, but I hope I was able to help you. As always, if you have any further questions about my suggestions please reach out to me with any of the links below.&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading,&lt;/p&gt;
-
-&lt;p&gt;Thomas&lt;/p&gt;
-</description>
+      <guid>http://tiveron.ca/blog/learning-r-or-python/</guid>
+      <description>R or Python for Data Science So you want to be a data scientist, but are stuck on the first polarizing decision of learning R or Python&amp;hellip; I&amp;rsquo;m going to try to help you!
+I&amp;rsquo;m also going to attempt to not make this post follow the typical &amp;ldquo;R is maybe the best, or Python, or neither&amp;rdquo;, as I find these kind of articles informative, but not that helpful. If you are wanting a break down of R and Python&amp;rsquo;s strengths, ease of learning, salaries, etc.</description>
     </item>
     
     <item>
@@ -272,52 +57,7 @@ With these two needs in mind, I think the academic approaching a problem with a 
       <pubDate>Wed, 29 Jun 2016 00:06:35 -0400</pubDate>
       <author>thomas@tiveron.ca (Thomas Tiveron)</author>
       <guid>http://tiveron.ca/blog/learning-csharp/</guid>
-      <description>&lt;h2&gt; Should I Learn C#? &lt;/h2&gt;
-
-&lt;p&gt;Why should you choose to learn C# out of all the other languages? Perhaps you are trying to decided between it and Java, or Python, or C, or JavaScript, or [insert other great language choice].
-Well quite simply you should choose C# to learn now, because C# is the best! &amp;hellip; Is what I wish I could say, but truly there are many different programming languages and most have varying pros and cons for many applications. With the disclaimer that there is certainly no &amp;ldquo;best&amp;rdquo;, C# has many great features and is a good beginner language. People smarter than I have written great and thorough articles on why to choose C#, linked below is just a small sampling. I didn&amp;rsquo;t want to repeat them here, but have summarized what I think are some great points below. Additionally, I have included some content to get you on your way learning C#.&lt;/p&gt;
-
-&lt;p&gt;&lt;h4&gt;Sampling of why you should learn C# references:&lt;/h4&gt;
- - &lt;a href=&#34;http://www.bestprogramminglanguagefor.me/why-learn-c-sharp&#34; title=&#34;Best Programming Language For Me - C#&#34;&gt;Why Learn C#&lt;/a&gt;
- &lt;br&gt;
- - &lt;a href=&#34;https://www.opensesame.com/blog/six-reasons-why-you-should-learn-c&#34; title=&#34;OpenSesame - 6 Reason to Learn C#&#34;&gt;6 Reasons To Learn C#&lt;/a&gt;
- &lt;br&gt;
- - &lt;a href=&#34;http://www.hanselman.com/blog/IfYouHadToStartOverWhatTechnologiesWouldYouLearnIn2014.aspx&#34; title=&#34;Scott Hanselman - If you had to start over learning...&#34;&gt;If You Had To Start Over Learning&amp;hellip; &lt;/a&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h4&gt;TL;DR&lt;/h4&gt;
-&lt;strong&gt;Common syntax&lt;/strong&gt; - you&amp;rsquo;ll get used to {curly braces}. This should help make it easier for you to read other curly brace languages, at least enough to get the gist of what the code is doing. This is very helpful, as sometimes you will only be able to find code examples in other languages, so being able to quickly interpret other code and get your C# code underway is a big bonus.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;High level language&lt;/strong&gt; - takes care of a lot of the little details and lets you get going. Now this isn&amp;rsquo;t to say it handles everything for you, but you will get good mileage.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Huge community&lt;/strong&gt; - If you are unfamiliar with &lt;a href=&#34;https://stackoverflow.com/&#34; title=&#34;Stack Overflow&#34;&gt;Stack Overflow&lt;/a&gt;, you soon won&amp;rsquo;t be! C# has the 4th largest community on Stack Overflow. This means if you have a problem, someone else probably has had it too, and you can find a solution here quickly.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;You can write pretty much anything, anywhere&lt;/strong&gt; - Microsoft loves open source if you hadn&amp;rsquo;t heard! With the release of &lt;a href=&#34;https://dotnet.github.io/&#34; title=&#34;.Net Core&#34;&gt;.Net Core&lt;/a&gt;, and &lt;a href=&#34;https://code.visualstudio.com/&#34; title=&#34;Visual Studio Code&#34;&gt;Visual Studio - Code&lt;/a&gt; you can now program C# on any platform in Microsoft&amp;rsquo;s &amp;ldquo;best&amp;rdquo; C# IDE Visual Studio. This means yes to Windows, Mac OS X, and Linux; and this means yes to desktop, web, and mobile applications.&lt;/p&gt;
-
-&lt;h2&gt; Getting Started Learning C# &lt;/h2&gt;
-
-&lt;p&gt;Everyone learns differently so I&amp;rsquo;m going to include a couple different methods for learning C# which hopefully you will find useful.&lt;/p&gt;
-
-&lt;p&gt;I got started learning C# with the course &lt;a href=&#34;https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949&#34; title=&#34;C# on MVA&#34;&gt;C# For Beginners on Microsoft Virtual Academy&lt;/a&gt;. Microsoft Virtual Academy has a plethora of free content to help anyone at any level get underway with many Microsoft technologies, and the best part is it is all free! This is probably the best way to get your feet wet with C#, it has around 8 hours of video tutorials, split into 24 modules, with 21 assessments. The 24 modules are great for when you are busy and can&amp;rsquo;t allocate a big chunk of time to learning all at once. Just complete a module or two when you can.&lt;/p&gt;
-
-&lt;p&gt;Now I haven&amp;rsquo;t tried this one myself, but if you tend to learn more through reading another free learning service by Microsoft is &lt;a href=&#34;https://www.microsoft.com/net/tutorials/csharp/getting-started&#34; title=&#34;Getting Started with C#&#34;&gt;Getting Started with C#&lt;/a&gt;. This text based tutorial appears to cover many of the same topics as the Microsoft Virtual Academy course. This could also be a great option for learning on the go on your mobile or if you live in a region with slow or intermittent internet access. These tutorials will even get you coding C# right in the browser, no need to download anything!&lt;/p&gt;
-
-&lt;p&gt;Well there you have it, you should consider learning C# as it has a bright future and seems like it should be an in demand language for years to come. Microsoft&amp;rsquo;s recent moves to open source the .Net Framework and huge cross platform support will only increase C#&amp;rsquo;s popularity.&lt;/p&gt;
-
-&lt;p&gt;I hope that the links above help you get started on C# and stay tuned for how to take your C# skills to the next level!&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Note: When you are ready to take your C# to the next level check out my next blog post for you here : &lt;a href=&#34;http://tiveron.ca/blog/csharp-advanced-foundations/&#34; title=&#34;Thomas Tiveron&#39;s C# - Advanced Foundations&#34;&gt;C# - Advanced Foundations&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading,&lt;/p&gt;
-
-&lt;p&gt;Thomas&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;br&gt;
-Pssssst!
-&lt;br&gt; If you want to type a &amp;lsquo;#&amp;rsquo; in a markdown header, switch to using HTML tags:
-&lt;br&gt; &amp;ldquo;&amp;lt;h2&amp;gt; Should I Learn C#? &amp;lt;/h2&amp;gt;&amp;rdquo;&lt;/p&gt;
-</description>
+      <description>Should I Learn C#?  Why should you choose to learn C# out of all the other languages? Perhaps you are trying to decided between it and Java, or Python, or C, or JavaScript, or [insert other great language choice]. Well quite simply you should choose C# to learn now, because C# is the best! &amp;hellip; Is what I wish I could say, but truly there are many different programming languages and most have varying pros and cons for many applications.</description>
     </item>
     
   </channel>
