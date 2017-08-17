@@ -156,13 +156,23 @@ img {
   margin-left: -65px;
 }
 
-.navbar-custom.top-nav-short .avatar-container {
+.navbar-custom.top-nav-short {
   opacity: 0;
   bottom: 50px;
 }
-.navbar-custom.top-nav-expanded .avatar-container {
+.navbar-custom.top-nav-expanded {
   display: none;
 }
+
+/*.avatar-container {
+  opacity: 0;
+  bottom: 50px;
+}
+.avatar-container {
+  display: none;
+}*/
+
+
 @media only screen and (min-width: 768px) {
   .avatar-container {
     width: 175px;
@@ -179,7 +189,6 @@ img {
     width: 175px;
     height: 101.04px;
     margin: 50.52px 0;
-    background-image: url(/img/thomastiveron.jpg);
     background-size: auto 197.4538px;
     background-position: center;
     box-shadow: 0 0 20px rgba(64,64,64,0.6);
