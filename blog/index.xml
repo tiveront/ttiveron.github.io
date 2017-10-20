@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Thomas Tiveron</title>
+    <link>http://tiveron.ca/blog/</link>
+    <description>Recent content in Blogs on Thomas Tiveron</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>thomas@tiveron.ca (Thomas Tiveron)</managingEditor>
+    <webMaster>thomas@tiveron.ca (Thomas Tiveron)</webMaster>
+    <lastBuildDate>Thu, 20 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tiveron.ca/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Spring Update</title>
+      <link>http://tiveron.ca/blog/spring-2017/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      <author>thomas@tiveron.ca (Thomas Tiveron)</author>
+      <guid>http://tiveron.ca/blog/spring-2017/</guid>
+      <description>Where&amp;rsquo;s my time going? Hello readers (mom &amp;lt;3),
+I apologize for my loooong delay between post. I can hardly believe it is already spring time. Whew, time is traveling faster now. What have you been up to so far this year? I hope something awesome!
+I have been building a desktop application for an engineering firm for stormwater management. On this project, I am on my own, so designer, manager, and developer!</description>
+    </item>
+    
+    <item>
+      <title>Should I Learn Julia?</title>
+      <link>http://tiveron.ca/blog/should-i-learn-julia/</link>
+      <pubDate>Sun, 11 Sep 2016 00:00:00 +0000</pubDate>
+      <author>thomas@tiveron.ca (Thomas Tiveron)</author>
+      <guid>http://tiveron.ca/blog/should-i-learn-julia/</guid>
+      <description>Why Julia, Why Now? Programming is a diverse field! You have people from all around the world, tackling every sort of problem imaginable with their computers. From web-developers, to mobile app creators, from legacy code maintainers, to scientific computing mathematicians, many people need different features and different languages.
+Julia  is a relatively young language, released in 2012, and was designed to meet the high-performance needs of numerical and scientific programming; while being a general-purpose programming language.</description>
+    </item>
+    
+    <item>
+      <title>C# - Intermediate</title>
+      <link>http://tiveron.ca/blog/csharp-intermediate/</link>
+      <pubDate>Sat, 13 Aug 2016 18:46:35 -0400</pubDate>
+      <author>thomas@tiveron.ca (Thomas Tiveron)</author>
+      <guid>http://tiveron.ca/blog/csharp-intermediate/</guid>
+      <description>Awkwardly wondering what to do after you get through your first C# tutorials? Learned the C# syntax, but now what?  Intermediate C# Developer  This post builds off my last to help direct you on your path to becoming a professional C# developer. This material will be right for you if you have been working with C# for about 3-6 months. There is some wiggle room in those numbers, as there always is, but if you are entirely unfamiliar with C#, please go here : Learning C#.</description>
+    </item>
+    
+    <item>
+      <title>C# - Advanced Foundations</title>
+      <link>http://tiveron.ca/blog/csharp-advanced-foundations/</link>
+      <pubDate>Mon, 18 Jul 2016 19:46:35 -0400</pubDate>
+      <author>thomas@tiveron.ca (Thomas Tiveron)</author>
+      <guid>http://tiveron.ca/blog/csharp-advanced-foundations/</guid>
+      <description>Ready to take you C# skills to the next level?? When I got started learning C# I looked to PluralSight . This has proven to be a great choice! There are literally weeks worth of great C# and .Net content. While I did not get started advancing my C# knowledge THAT long ago, it was before PluralSight started offering &amp;ldquo;Paths&amp;rdquo;. At that time, way back when, they had just a few old blog posts to guide me on where to get started, and which order to watch some videos in.</description>
+    </item>
+    
+    <item>
+      <title>Should I Learn R or Python?</title>
+      <link>http://tiveron.ca/blog/learning-r-or-python/</link>
+      <pubDate>Tue, 05 Jul 2016 21:16:38 -0400</pubDate>
+      <author>thomas@tiveron.ca (Thomas Tiveron)</author>
+      <guid>http://tiveron.ca/blog/learning-r-or-python/</guid>
+      <description>R or Python for Data Science So you want to be a data scientist, but are stuck on the first polarizing decision of learning R or Python&amp;hellip; I&amp;rsquo;m going to try to help you!
+I&amp;rsquo;m also going to attempt to not make this post follow the typical &amp;ldquo;R is maybe the best, or Python, or neither&amp;rdquo;, as I find these kind of articles informative, but not that helpful. If you are wanting a break down of R and Python&amp;rsquo;s strengths, ease of learning, salaries, etc.</description>
+    </item>
+    
+    <item>
+      <title>Learning C#</title>
+      <link>http://tiveron.ca/blog/learning-csharp/</link>
+      <pubDate>Wed, 29 Jun 2016 00:06:35 -0400</pubDate>
+      <author>thomas@tiveron.ca (Thomas Tiveron)</author>
+      <guid>http://tiveron.ca/blog/learning-csharp/</guid>
+      <description>Should I Learn C#?  Why should you choose to learn C# out of all the other languages? Perhaps you are trying to decided between it and Java, or Python, or C, or JavaScript, or [insert other great language choice]. Well quite simply you should choose C# to learn now, because C# is the best! &amp;hellip; Is what I wish I could say, but truly there are many different programming languages and most have varying pros and cons for many applications.</description>
+    </item>
+    
+    <item>
+      <title>Thomas&#39;s First Tech Blog Post</title>
+      <link>http://tiveron.ca/blog/getting-started-blogging/</link>
+      <pubDate>Wed, 22 Jun 2016 23:46:35 -0400</pubDate>
+      <author>thomas@tiveron.ca (Thomas Tiveron)</author>
+      <guid>http://tiveron.ca/blog/getting-started-blogging/</guid>
+      <description>So I&amp;rsquo;ve started my blog! &amp;hellip; &amp;hellip; &amp;hellip; Now for the content, hold onto your seats people.
+As a big podcast fan (check out my PlayerFM channel), I often heard the benefits of sharing your knowledge from many people, such as Scott Hanselman, and Jon Sonmez. They preach that sharing your journey will not only help you retain what you are learning, create an excellent portfolio, but you may also help/inspire someone else to tackle new challenges.</description>
+    </item>
+    
+  </channel>
+</rss>

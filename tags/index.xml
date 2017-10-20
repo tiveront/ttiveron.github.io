@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Thomas Tiveron</title>
+    <link>http://tiveron.ca/tags/</link>
+    <description>Recent content in Tags on Thomas Tiveron</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>thomas@tiveron.ca (Thomas Tiveron)</managingEditor>
+    <webMaster>thomas@tiveron.ca (Thomas Tiveron)</webMaster>
+    <lastBuildDate>Sat, 13 Aug 2016 18:46:35 -0400</lastBuildDate>
+    
+	<atom:link href="http://tiveron.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>C#</title>
+      <link>http://tiveron.ca/tags/c#/</link>
+      <pubDate>Sat, 13 Aug 2016 18:46:35 -0400</pubDate>
+      <author>thomas@tiveron.ca (Thomas Tiveron)</author>
+      <guid>http://tiveron.ca/tags/c#/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://tiveron.ca/tags/hugo/</link>
+      <pubDate>Wed, 22 Jun 2016 23:46:35 -0400</pubDate>
+      <author>thomas@tiveron.ca (Thomas Tiveron)</author>
+      <guid>http://tiveron.ca/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julia</title>
+      <link>http://tiveron.ca/tags/julia/</link>
+      <pubDate>Sun, 11 Sep 2016 00:00:00 +0000</pubDate>
+      <author>thomas@tiveron.ca (Thomas Tiveron)</author>
+      <guid>http://tiveron.ca/tags/julia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://tiveron.ca/tags/python/</link>
+      <pubDate>Tue, 05 Jul 2016 21:16:38 -0400</pubDate>
+      <author>thomas@tiveron.ca (Thomas Tiveron)</author>
+      <guid>http://tiveron.ca/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>http://tiveron.ca/tags/r/</link>
+      <pubDate>Tue, 05 Jul 2016 21:16:38 -0400</pubDate>
+      <author>thomas@tiveron.ca (Thomas Tiveron)</author>
+      <guid>http://tiveron.ca/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tom</title>
+      <link>http://tiveron.ca/tags/tom/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      <author>thomas@tiveron.ca (Thomas Tiveron)</author>
+      <guid>http://tiveron.ca/tags/tom/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opinion on Thomas Tiveron</title>
+    <link>http://tiveron.ca/categories/opinion/</link>
+    <description>Recent content in Opinion on Thomas Tiveron</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>thomas@tiveron.ca (Thomas Tiveron)</managingEditor>
+    <webMaster>thomas@tiveron.ca (Thomas Tiveron)</webMaster>
+    <lastBuildDate>Wed, 22 Jun 2016 23:46:35 -0400</lastBuildDate>
+    
+	<atom:link href="http://tiveron.ca/categories/opinion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thomas&#39;s First Tech Blog Post</title>
+      <link>http://tiveron.ca/blog/getting-started-blogging/</link>
+      <pubDate>Wed, 22 Jun 2016 23:46:35 -0400</pubDate>
+      <author>thomas@tiveron.ca (Thomas Tiveron)</author>
+      <guid>http://tiveron.ca/blog/getting-started-blogging/</guid>
+      <description>So I&amp;rsquo;ve started my blog! &amp;hellip; &amp;hellip; &amp;hellip; Now for the content, hold onto your seats people.
+As a big podcast fan (check out my PlayerFM channel), I often heard the benefits of sharing your knowledge from many people, such as Scott Hanselman, and Jon Sonmez. They preach that sharing your journey will not only help you retain what you are learning, create an excellent portfolio, but you may also help/inspire someone else to tackle new challenges.</description>
+    </item>
+    
+  </channel>
+</rss>
