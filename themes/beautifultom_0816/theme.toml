@@ -1,0 +1,23 @@
+name = "beautifultom"
+license = "MIT"
+licenselink = "https://github.com/ttiveron/beautifultom/blob/master/LICENSE"
+description = "A port of Beautiful Jekyll theme"
+tags = ["blog", "company", "portfolio", "projects", "minimal", "responsive"]
+features = ["blog", "themes", "disqus", "minimal", "responsive"]
+min_version = 0.1
+
+[original author]
+    name = "halogenica"
+    homepage = "http://halogenica.net"
+
+# If Porting existing theme
+[original port]
+    author =  "dattali"
+    homepage = "http://deanattali.com/beautiful-jekyll/"
+    repo = "https://github.com/daattali/beautiful-jekyll"
+
+# Porting again!
+[second port]
+    author =  "ttiveron"
+    homepage = "http://www.tiveron.ca/"
+    repo = "https://github.com/ttiveron/beautifultom"

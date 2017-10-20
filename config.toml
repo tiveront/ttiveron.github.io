@@ -1,0 +1,37 @@
+baseurl = "http://tiveron.ca/"
+languageCode = "en-us"
+title = "Thomas Tiveron"
+theme = "beautifultom"
+googleAnalytics = "UA-80066412-1"
+
+publishDir = "public"
+
+[Params]
+  logo = "img/thomastiveron.jpg"
+  rightlogo = "img/TT_hex_trans.png"
+  favicon = "img/TT_fav_trans.ico"
+  subtitle = "Engineer | Researcher | Learner"
+
+[Author]
+  name = "Thomas Tiveron"
+  email = "thomas@tiveron.ca"
+  github = "ttiveron"
+  twitter = "tiveront"
+  linkedin = "in/tiveront"
+  stackoverflow = "4914263/thomas-tiveron"
+  # facebook = "username"
+  # soundcloud = "username"
+  # wikipedia = "username"
+
+[permalinks]
+  post = "/blog/:filename/"
+
+[[menu.main]]
+  name = "Projects"
+  url = "/section/projects/"
+  weight = 1
+
+[[menu.main]]
+  name = "About Me"
+  url = "/page/about/"
+  weight = 2

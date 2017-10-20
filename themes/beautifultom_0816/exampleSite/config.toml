@@ -1,0 +1,34 @@
+baseurl = "http://username.github.io"
+languageCode = "en-us"
+theme = "beautifultom"
+pygmentsUseClasses = true
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+title = "beautifultom"
+subtitle = "Build a beautiful and slightly less simple (but still simple!) website in minutes"
+
+[Params]
+  logo = "img/avatar-icon.png"
+  favicon = "img/bt_hex.jpg"
+
+[Author]
+  name = "Some Person"
+  email = "youremail@domain.com"
+  facebook = "username"
+  github = "username"
+  twitter = "username"
+  linkedin = "pub/username/X/YYY/ZZZ"
+  stackoverflow = "XXXXXXX/username"
+  soundcloud = "username"
+  wikipedia = "username"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/page/about/"
+    weight = 2

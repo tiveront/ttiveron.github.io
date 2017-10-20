@@ -1,0 +1,59 @@
+baseurl = "http://username.github.io"
+languageCode = "en-us"
+theme = "beautifultom"
+pygmentsUseClasses = true
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+title = "beautifultom"
+subtitle = "Build a beautiful and slightly less simple (but still simple!) website in minutes"
+
+[Params]
+  logo = "img/avatar-icon.png"
+  rightlogo = "img/bt_hex_trans.png"
+  favicon = "img/bt_hex_trans.png"
+
+[Author]
+  name = "Some Person"
+  email = "youremail@domain.com"
+  facebook = "username"
+  github = "username"
+  twitter = "username"
+  linkedin = "pub/username/X/YYY/ZZZ"
+  stackoverflow = "XXXXXXX/username"
+  soundcloud = "username"
+  wikipedia = "username"
+
+[[menu.main]]
+  name = "Really Cool Section"
+  url = "/section/projects/"
+  weight = 1
+
+[[menu.main]]
+  name = "About Me"
+  url = "/page/about/"
+  weight = 2
+
+# name = "beautifultom"
+# license = "MIT"
+# licenselink = "https://github.com/ttiveron/beautifultom/blob/master/LICENSE"
+# description = "A port of Beautiful Jekyll theme"
+# tags = ["blog", "company", "portfolio", "projects", "minimal", "responsive"]
+# features = ["blog", "themes", "disqus", "minimal", "responsive"]
+# min_version = 0.1
+#
+# [original author]
+#     name = "halogenica"
+#     homepage = "http://halogenica.net"
+# 
+# # If Porting existing theme
+# [original port]
+#     author =  "dattali"
+#     homepage = "http://deanattali.com/beautiful-jekyll/"
+#     repo = "https://github.com/daattali/beautiful-jekyll"
+#
+# # Porting again!
+# [second port]
+#     author =  "ttiveron"
+#     homepage = "http://www.tiveron.ca/"
+#     repo = "https://github.com/ttiveron/beautifultom"
