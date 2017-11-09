@@ -1,4 +1,4 @@
-baseurl = "http://tiveron.ca/"
+baseurl = "https://tiveron.ca/"
 languageCode = "en-us"
 title = "Thomas Tiveron"
 theme = "beautifultom"
