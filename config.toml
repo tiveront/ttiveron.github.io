@@ -15,7 +15,7 @@ publishDir = "public"
 [Author]
   name = "Thomas Tiveron"
   email = "thomas@tiveron.ca"
-  github = "ttiveron"
+  github = "tiveront"
   twitter = "tiveront"
   linkedin = "in/tiveront"
   stackoverflow = "4914263/thomas-tiveron"
