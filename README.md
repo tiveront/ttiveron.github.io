@@ -1,3 +1,4 @@
 # Thomas's Tech Blog
 
-More coming soon!
+Moved to www.thomastiveron.com
+
